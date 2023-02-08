@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @slowpoke111
-- 👀 I’m interested in ML with SKLearn and Python
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in ML with Python
+- 🌱 I’m currently learning Java
