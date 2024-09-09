@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slowpoke111
-- 👀 I’m interested in ML with Python
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Rust
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowpoke111&langs_count=8)
