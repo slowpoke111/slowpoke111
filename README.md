@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust, x86 Assembly, and C. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowpoke111&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowpoke111&langs_count=12)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=slowpoke111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
