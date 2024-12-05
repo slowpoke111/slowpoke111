@@ -7,6 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=slowpoke111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ben Bell's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=slowpoke111&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Technologies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="70" width="70" />
