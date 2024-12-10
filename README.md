@@ -50,6 +50,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
