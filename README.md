@@ -54,6 +54,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> “Python’s motto is ‘There’s only one way to do it,’ but C++’s motto is ‘There’s a million ways to do it, and none of them are safe.’” – Unknown
 
