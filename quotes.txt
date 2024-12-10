@@ -1,0 +1,79 @@
+﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
+“It’s not a bug, it’s an undocumented feature.” — Unknown
+“When debugging, novices insert print statements, experts remove them.” — Unknown
+“The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+“To iterate is human, to recurse divine.” — L. Peter Deutsch
+“If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+—” The code you write today will be the code you curse tomorrow.”“” – Unknown
+“—” I have come to the conclusion that one of the main causes of the trouble with software is that people make it.  — Unknown
+“The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+“There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+“The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+“Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.” — Rich Cook
+“Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+“I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+ The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+“The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+“The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+“If at first you don’t succeed; call it version 1.0.” — Unknown
+“A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+“The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+“To understand recursion, you must first understand recursion.”– Unknown
+“Software is 90% complete and 90% incomplete at the same time.” — Unknown
+“The best part about programming is that you get to make your own mistakes.” — Unknown
+“Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
+“One man’s poor software is another man’s full-time job.” — Jessica Gaston
+“In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+“If you don't care about performance, you can write the cleanest, most beautiful code and still make your users want to throw their machines out the window.” — Unknown
+“The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+“The less you know, the more likely you are to break something that isn't broken.” — Unknown
+“There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+“The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
+“Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+“You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+“The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+“The only software that is bug-free is the one that no one uses.” — Unknown
+“When you solve one problem, ten more appear to take its place.” — Unknown
+“Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+“Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+“Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+“A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+“The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+“You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+“Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+“Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
+“In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+“In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+“Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+“In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+“The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+“In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
+“Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
+“The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+“Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+“AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+“The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+“Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+“Java: The write-once, debug-everywhere language.” – Unknown
+“You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+“In Java, the only thing more bloated than your code is the JVM.” – Unknown
+“C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+“C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+“C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+“C++: where syntax errors turn into existential crises.” – Unknown
+“C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+“C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+“Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+“Python’s motto is ‘There’s only one way to do it,’ but C++’s motto is ‘There’s a million ways to do it, and none of them are safe.’” – Unknown
+“Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+“The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+“When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
+“C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+“C++ is like having a chainsaw in your back pocket. It can help you get the job done quickly, but you might lose a finger or two.” — Bjarne Stroustrup
+“In C++, you can break the program and fix it 100 different ways, but Java will let you break it with just one line of code.” — Herb Sutter
+“C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+“Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+“APIs are the duct tape of the software world.” — Jeffrey Snover
+“Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
