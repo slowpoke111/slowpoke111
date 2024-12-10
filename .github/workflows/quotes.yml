@@ -27,15 +27,21 @@ jobs:
         with:
           python-version: '3.x'
 
-      # Add a random quote to the profile (README.md)
+      # Add random quote to profile and remove previous quote
       - name: Add random quote to profile
         run: |
           # Fetch a random line from quotes.txt
           RANDOM_QUOTE=$(shuf -n 1 quotes.txt)
-          
-          # Append the random quote with heading to the end of README.md
-          echo -e "\n## Random quote of the hour\n> $RANDOM_QUOTE" >> README.md
-          
+
+          # Check if the "Random quote of the hour" section exists and remove it if it does
+          if grep -q "## Random quote of the hour" README.md; then
+            # Remove the previous quote section
+            sed -i '/## Random quote of the hour/,/^$/d' README.md
+          fi
+
+          # Append the new random quote with heading to the end of README.md
+          echo -e "\n## Random quote of the hour\n> $RANDOM_QUOTE\n" >> README.md
+
           # Commit and push the change to the repository
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
