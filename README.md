@@ -49,6 +49,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
