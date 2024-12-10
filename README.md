@@ -37,6 +37,7 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="70" width="70"/> 
 
 
+
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
 
