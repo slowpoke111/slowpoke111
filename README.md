@@ -41,3 +41,6 @@
 
 ## Random quote of the hour
 > “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+
+## Random quote of the hour
+> “—” I have come to the conclusion that one of the main causes of the trouble with software is that people make it.  — Unknown
