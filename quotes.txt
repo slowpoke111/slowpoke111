@@ -99,3 +99,17 @@
 "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 "Love with your heart, use your head for everything else" - Alan Melikdjanian
+"I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+"It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+"Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+"Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+"There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+"I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+"It’s a bug until you document it. Then it’s a feature." — Unknown
+"C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+"The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
+"C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+"Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
+"Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+"The best thing about pointers in C++? They give you direct control over memory. The worst thing about pointers? They give you direct control over memory." — Bjarne Stroustrup
+"A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
