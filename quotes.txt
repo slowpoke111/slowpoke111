@@ -113,3 +113,10 @@
 "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
 "The best thing about pointers in C++? They give you direct control over memory. The worst thing about pointers? They give you direct control over memory." — Bjarne Stroustrup
 "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+"I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
+"In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+"Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+"I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
+"My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+"I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+"The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
