@@ -77,3 +77,24 @@
 “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
 “APIs are the duct tape of the software world.” — Jeffrey Snover
 “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
+"The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+"The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+"Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+"Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+"The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+"Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+"The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+"The more people working on a project, the longer it takes to finish." — Fred Brooks
+"The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+"The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+"Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+"The closer the deadline, the longer it takes to finish." — Unknown
+"It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
+"The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+"Adding features to make it better often makes it worse." — Joel Spolsky
+"The better the documentation, the less anyone reads it." — Martin Fowler
+"The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+"The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+"In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+"The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+"The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
