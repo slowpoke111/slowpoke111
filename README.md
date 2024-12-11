@@ -69,6 +69,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
 
