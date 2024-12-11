@@ -72,6 +72,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
