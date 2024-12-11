@@ -87,6 +87,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
