@@ -65,6 +65,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
