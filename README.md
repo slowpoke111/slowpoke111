@@ -89,6 +89,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 
