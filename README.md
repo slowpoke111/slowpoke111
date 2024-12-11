@@ -86,6 +86,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
