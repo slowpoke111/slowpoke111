@@ -74,6 +74,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
