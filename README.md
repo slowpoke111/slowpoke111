@@ -98,6 +98,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
