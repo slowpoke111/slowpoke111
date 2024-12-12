@@ -108,6 +108,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
 
