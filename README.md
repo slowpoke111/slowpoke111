@@ -112,6 +112,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
