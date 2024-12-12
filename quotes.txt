@@ -120,3 +120,4 @@
 "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+"Rust is love, Rust is life" - Jay Churchill
