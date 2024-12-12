@@ -107,6 +107,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
