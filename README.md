@@ -99,6 +99,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
