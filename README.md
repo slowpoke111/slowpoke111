@@ -103,6 +103,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 
