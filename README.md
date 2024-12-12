@@ -96,6 +96,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
