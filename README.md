@@ -134,6 +134,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Love with your heart, use your head for everything else" - Alan Melikdjanian
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
