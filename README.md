@@ -127,6 +127,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
