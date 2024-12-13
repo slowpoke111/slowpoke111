@@ -113,6 +113,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> “In C++, you can break the program and fix it 100 different ways, but Java will let you break it with just one line of code.” — Herb Sutter
 
