@@ -157,6 +157,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
