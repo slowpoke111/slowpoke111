@@ -156,6 +156,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
