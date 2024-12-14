@@ -153,6 +153,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
