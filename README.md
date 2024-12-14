@@ -144,6 +144,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
