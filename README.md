@@ -137,6 +137,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
