@@ -145,6 +145,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
