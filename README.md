@@ -149,6 +149,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
