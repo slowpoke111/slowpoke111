@@ -148,6 +148,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
