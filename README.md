@@ -150,6 +150,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
