@@ -178,6 +178,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
+> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
 
