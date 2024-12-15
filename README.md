@@ -165,6 +165,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
+>  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
 
