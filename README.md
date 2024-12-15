@@ -167,6 +167,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
