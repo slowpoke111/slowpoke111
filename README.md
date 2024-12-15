@@ -166,6 +166,7 @@
 
 
 
+
 ## Random quote of the hour
->  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
