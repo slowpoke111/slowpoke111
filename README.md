@@ -174,6 +174,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+>  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
 
