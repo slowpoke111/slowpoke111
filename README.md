@@ -170,6 +170,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
