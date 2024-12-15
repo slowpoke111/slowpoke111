@@ -177,6 +177,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
