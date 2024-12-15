@@ -160,6 +160,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Love with your heart, use your head for everything else" - Alan Melikdjanian
+> "The best thing about pointers in C++? They give you direct control over memory. The worst thing about pointers? They give you direct control over memory." — Bjarne Stroustrup
 
