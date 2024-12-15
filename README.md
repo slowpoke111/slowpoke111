@@ -176,6 +176,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
