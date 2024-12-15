@@ -159,6 +159,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> "Love with your heart, use your head for everything else" - Alan Melikdjanian
 
