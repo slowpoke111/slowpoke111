@@ -183,6 +183,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you don't care about performance, you can write the cleanest, most beautiful code and still make your users want to throw their machines out the window.” — Unknown
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
