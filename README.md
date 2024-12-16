@@ -191,6 +191,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
