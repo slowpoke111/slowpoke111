@@ -201,6 +201,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
