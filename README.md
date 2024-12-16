@@ -185,6 +185,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
