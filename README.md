@@ -213,6 +213,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
