@@ -215,6 +215,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
 
