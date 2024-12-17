@@ -209,6 +209,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
 
