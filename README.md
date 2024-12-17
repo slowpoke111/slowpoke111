@@ -218,6 +218,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
