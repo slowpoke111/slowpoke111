@@ -226,6 +226,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
