@@ -246,6 +246,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
