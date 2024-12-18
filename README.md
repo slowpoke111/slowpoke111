@@ -230,6 +230,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
