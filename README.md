@@ -227,6 +227,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
