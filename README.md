@@ -237,6 +237,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
