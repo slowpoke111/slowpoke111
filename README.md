@@ -224,6 +224,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
