@@ -242,6 +242,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
