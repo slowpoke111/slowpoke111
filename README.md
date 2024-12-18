@@ -239,6 +239,7 @@
 
 
 
+
 ## Random quote of the hour
-> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
