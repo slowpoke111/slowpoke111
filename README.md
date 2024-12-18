@@ -232,6 +232,7 @@
 
 
 
+
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
 
