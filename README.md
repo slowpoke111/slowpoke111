@@ -231,6 +231,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
