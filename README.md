@@ -234,6 +234,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
