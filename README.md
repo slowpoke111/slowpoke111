@@ -266,6 +266,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
 
