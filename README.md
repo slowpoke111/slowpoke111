@@ -258,6 +258,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
