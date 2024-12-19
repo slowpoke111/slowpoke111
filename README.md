@@ -257,6 +257,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
