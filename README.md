@@ -247,6 +247,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
