@@ -259,6 +259,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “To understand recursion, you must first understand recursion.”– Unknown
 
