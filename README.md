@@ -265,6 +265,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
