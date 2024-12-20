@@ -285,6 +285,7 @@
 
 
 
+
 ## Random quote of the hour
-> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
