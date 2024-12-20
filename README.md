@@ -292,6 +292,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
