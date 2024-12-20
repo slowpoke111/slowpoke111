@@ -273,6 +273,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
