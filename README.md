@@ -277,6 +277,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
