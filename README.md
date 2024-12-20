@@ -284,6 +284,7 @@
 
 
 
+
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
 
