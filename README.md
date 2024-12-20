@@ -290,6 +290,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
