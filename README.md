@@ -282,6 +282,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
 
