@@ -291,6 +291,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
