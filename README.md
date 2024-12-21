@@ -309,6 +309,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
