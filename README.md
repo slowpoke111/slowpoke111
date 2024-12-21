@@ -302,6 +302,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
