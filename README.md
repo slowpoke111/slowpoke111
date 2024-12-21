@@ -308,6 +308,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
