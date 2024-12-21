@@ -305,6 +305,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
