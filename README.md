@@ -298,6 +298,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
