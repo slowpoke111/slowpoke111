@@ -306,6 +306,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
