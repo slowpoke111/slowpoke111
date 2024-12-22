@@ -323,6 +323,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
