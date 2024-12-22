@@ -328,6 +328,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
