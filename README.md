@@ -329,6 +329,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
