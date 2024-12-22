@@ -318,6 +318,7 @@
 
 
 
+
 ## Random quote of the hour
->  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
