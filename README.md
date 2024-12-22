@@ -320,6 +320,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
