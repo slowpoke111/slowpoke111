@@ -316,6 +316,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
