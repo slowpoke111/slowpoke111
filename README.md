@@ -317,6 +317,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+>  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
 
