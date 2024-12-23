@@ -341,6 +341,7 @@
 
 
 
+
 ## Random quote of the hour
->  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
