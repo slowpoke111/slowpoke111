@@ -353,6 +353,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
