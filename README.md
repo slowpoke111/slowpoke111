@@ -359,6 +359,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
