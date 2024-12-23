@@ -361,6 +361,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
