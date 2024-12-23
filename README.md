@@ -340,6 +340,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+>  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
 
