@@ -356,6 +356,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
