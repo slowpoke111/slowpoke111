@@ -358,6 +358,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Love with your heart, use your head for everything else" - Alan Melikdjanian
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
