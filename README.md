@@ -357,6 +357,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> "Love with your heart, use your head for everything else" - Alan Melikdjanian
 
