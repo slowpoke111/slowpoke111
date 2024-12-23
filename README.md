@@ -351,6 +351,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
