@@ -379,6 +379,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
