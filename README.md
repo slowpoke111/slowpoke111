@@ -363,6 +363,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python’s motto is ‘There’s only one way to do it,’ but C++’s motto is ‘There’s a million ways to do it, and none of them are safe.’” – Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
