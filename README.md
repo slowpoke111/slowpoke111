@@ -365,6 +365,7 @@
 
 
 
+
 ## Random quote of the hour
-> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
