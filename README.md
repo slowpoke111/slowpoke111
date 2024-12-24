@@ -378,6 +378,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
