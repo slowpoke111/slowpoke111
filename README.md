@@ -373,6 +373,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> “If you don't care about performance, you can write the cleanest, most beautiful code and still make your users want to throw their machines out the window.” — Unknown
 
