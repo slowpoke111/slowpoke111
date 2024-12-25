@@ -397,6 +397,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
