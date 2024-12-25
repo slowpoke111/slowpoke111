@@ -391,6 +391,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
