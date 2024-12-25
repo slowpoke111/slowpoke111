@@ -392,6 +392,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
