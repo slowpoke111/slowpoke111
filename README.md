@@ -403,6 +403,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> “It’s not a bug, it’s an undocumented feature.” — Unknown
 
