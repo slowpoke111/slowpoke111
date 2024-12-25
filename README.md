@@ -390,6 +390,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
