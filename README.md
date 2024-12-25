@@ -389,6 +389,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
