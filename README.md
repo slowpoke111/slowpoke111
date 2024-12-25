@@ -388,6 +388,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
