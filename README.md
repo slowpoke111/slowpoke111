@@ -395,6 +395,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
