@@ -406,6 +406,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
