@@ -398,6 +398,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
