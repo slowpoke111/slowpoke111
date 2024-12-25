@@ -385,6 +385,7 @@
 
 
 
+
 ## Random quote of the hour
-> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
