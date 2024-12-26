@@ -425,6 +425,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
 
