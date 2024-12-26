@@ -410,6 +410,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
