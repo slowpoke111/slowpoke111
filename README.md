@@ -424,6 +424,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
