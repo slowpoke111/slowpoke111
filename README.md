@@ -414,6 +414,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
