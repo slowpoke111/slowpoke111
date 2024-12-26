@@ -415,6 +415,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
 
