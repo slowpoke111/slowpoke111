@@ -422,6 +422,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
