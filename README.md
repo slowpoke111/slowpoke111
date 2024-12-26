@@ -409,6 +409,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
