@@ -436,6 +436,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> "The best thing about pointers in C++? They give you direct control over memory. The worst thing about pointers? They give you direct control over memory." — Bjarne Stroustrup
 
