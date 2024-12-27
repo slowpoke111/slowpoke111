@@ -446,6 +446,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
