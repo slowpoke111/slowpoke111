@@ -453,6 +453,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
 
