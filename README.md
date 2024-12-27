@@ -440,6 +440,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
