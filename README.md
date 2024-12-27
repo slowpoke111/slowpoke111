@@ -431,6 +431,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
