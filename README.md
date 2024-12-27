@@ -447,6 +447,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
