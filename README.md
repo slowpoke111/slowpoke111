@@ -450,6 +450,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
