@@ -435,6 +435,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
