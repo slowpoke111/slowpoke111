@@ -451,6 +451,7 @@
 
 
 
+
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
