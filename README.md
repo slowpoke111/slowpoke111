@@ -432,6 +432,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
