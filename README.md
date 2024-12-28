@@ -463,6 +463,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
