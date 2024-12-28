@@ -462,6 +462,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
