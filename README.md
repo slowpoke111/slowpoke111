@@ -468,6 +468,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
