@@ -464,6 +464,7 @@
 
 
 
+
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
