@@ -496,6 +496,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
