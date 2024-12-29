@@ -491,6 +491,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
