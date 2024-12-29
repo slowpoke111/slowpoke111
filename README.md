@@ -492,6 +492,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
