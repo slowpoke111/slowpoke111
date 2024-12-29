@@ -490,6 +490,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
