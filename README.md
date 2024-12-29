@@ -495,6 +495,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you don't care about performance, you can write the cleanest, most beautiful code and still make your users want to throw their machines out the window.” — Unknown
+> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 
