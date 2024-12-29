@@ -484,6 +484,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
