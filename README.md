@@ -483,6 +483,7 @@
 
 
 
+
 ## Random quote of the hour
->  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
