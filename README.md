@@ -479,6 +479,7 @@
 
 
 
+
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
