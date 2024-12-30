@@ -513,6 +513,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
