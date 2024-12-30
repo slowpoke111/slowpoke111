@@ -504,6 +504,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
