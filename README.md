@@ -516,6 +516,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
