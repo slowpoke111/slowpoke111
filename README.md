@@ -503,6 +503,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
