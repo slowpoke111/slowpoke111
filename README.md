@@ -518,6 +518,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
