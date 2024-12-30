@@ -521,6 +521,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
