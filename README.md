@@ -509,6 +509,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
