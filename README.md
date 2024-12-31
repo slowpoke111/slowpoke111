@@ -530,6 +530,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
