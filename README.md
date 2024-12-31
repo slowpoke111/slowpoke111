@@ -537,6 +537,7 @@
 
 
 
+
 ## Random quote of the hour
-> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
