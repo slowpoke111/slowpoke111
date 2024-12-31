@@ -527,6 +527,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
 
