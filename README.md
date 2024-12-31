@@ -529,6 +529,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
