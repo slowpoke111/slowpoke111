@@ -535,6 +535,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
