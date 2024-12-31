@@ -534,6 +534,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
 
