@@ -525,6 +525,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
