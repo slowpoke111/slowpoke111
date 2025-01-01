@@ -564,6 +564,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
