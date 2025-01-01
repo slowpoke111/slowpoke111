@@ -557,6 +557,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
