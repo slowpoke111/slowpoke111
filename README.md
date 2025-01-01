@@ -559,6 +559,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
