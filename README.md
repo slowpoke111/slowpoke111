@@ -560,6 +560,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
