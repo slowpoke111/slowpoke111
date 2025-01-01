@@ -563,6 +563,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
