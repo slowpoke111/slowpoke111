@@ -558,6 +558,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
 
