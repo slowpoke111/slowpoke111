@@ -562,6 +562,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
