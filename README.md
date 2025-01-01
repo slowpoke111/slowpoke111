@@ -566,6 +566,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+>  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
 
