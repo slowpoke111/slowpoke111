@@ -568,6 +568,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
