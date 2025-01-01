@@ -547,6 +547,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
