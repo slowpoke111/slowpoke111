@@ -577,6 +577,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
