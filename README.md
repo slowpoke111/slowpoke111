@@ -588,6 +588,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
