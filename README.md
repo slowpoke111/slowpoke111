@@ -583,6 +583,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
