@@ -578,6 +578,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
