@@ -576,6 +576,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
