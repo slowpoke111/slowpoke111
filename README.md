@@ -587,6 +587,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
