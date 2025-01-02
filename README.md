@@ -580,6 +580,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
