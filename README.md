@@ -579,6 +579,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
