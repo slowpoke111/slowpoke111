@@ -582,6 +582,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Love with your heart, use your head for everything else" - Alan Melikdjanian
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
