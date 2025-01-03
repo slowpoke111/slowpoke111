@@ -595,6 +595,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
