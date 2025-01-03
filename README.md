@@ -596,6 +596,7 @@
 
 
 
+
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
 
