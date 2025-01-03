@@ -602,6 +602,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
