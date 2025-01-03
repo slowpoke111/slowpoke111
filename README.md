@@ -594,6 +594,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
