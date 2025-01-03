@@ -604,6 +604,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
