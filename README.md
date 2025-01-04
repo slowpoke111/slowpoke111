@@ -630,6 +630,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
