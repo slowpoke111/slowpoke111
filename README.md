@@ -625,6 +625,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
 
