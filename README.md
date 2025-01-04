@@ -635,6 +635,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
 
