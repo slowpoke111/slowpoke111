@@ -620,6 +620,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
