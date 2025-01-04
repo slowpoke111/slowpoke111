@@ -621,6 +621,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+>  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
 
