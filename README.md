@@ -628,6 +628,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
