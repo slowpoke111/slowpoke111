@@ -624,6 +624,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
