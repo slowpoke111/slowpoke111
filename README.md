@@ -629,6 +629,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
