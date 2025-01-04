@@ -627,6 +627,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
