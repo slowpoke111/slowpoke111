@@ -619,6 +619,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
