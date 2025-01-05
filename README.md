@@ -660,6 +660,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
