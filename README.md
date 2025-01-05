@@ -646,6 +646,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
