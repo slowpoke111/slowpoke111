@@ -639,6 +639,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “Python’s motto is ‘There’s only one way to do it,’ but C++’s motto is ‘There’s a million ways to do it, and none of them are safe.’” – Unknown
 
