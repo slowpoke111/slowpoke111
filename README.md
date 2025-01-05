@@ -645,6 +645,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
