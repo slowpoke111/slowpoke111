@@ -658,6 +658,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
