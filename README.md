@@ -642,6 +642,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
