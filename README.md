@@ -648,6 +648,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
