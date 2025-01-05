@@ -655,6 +655,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
