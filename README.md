@@ -680,6 +680,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
