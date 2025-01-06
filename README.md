@@ -670,6 +670,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
