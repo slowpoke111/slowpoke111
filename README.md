@@ -666,6 +666,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
