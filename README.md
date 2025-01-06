@@ -679,6 +679,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
