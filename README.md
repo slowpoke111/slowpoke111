@@ -665,6 +665,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 
