@@ -678,6 +678,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
