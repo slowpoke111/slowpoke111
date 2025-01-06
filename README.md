@@ -662,6 +662,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
