@@ -691,6 +691,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
