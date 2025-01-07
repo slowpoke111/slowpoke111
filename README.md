@@ -693,6 +693,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
