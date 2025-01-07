@@ -695,6 +695,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
