@@ -705,6 +705,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
