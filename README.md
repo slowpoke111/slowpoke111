@@ -686,6 +686,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
