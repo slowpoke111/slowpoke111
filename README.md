@@ -689,6 +689,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
