@@ -694,6 +694,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
