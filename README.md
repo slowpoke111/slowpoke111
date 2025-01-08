@@ -727,6 +727,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
