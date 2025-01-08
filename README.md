@@ -707,6 +707,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> “To understand recursion, you must first understand recursion.”– Unknown
 
