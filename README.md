@@ -709,6 +709,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
