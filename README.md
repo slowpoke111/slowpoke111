@@ -714,6 +714,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> “It’s not a bug, it’s an undocumented feature.” — Unknown
 
