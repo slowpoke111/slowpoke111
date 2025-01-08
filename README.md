@@ -716,6 +716,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
 
