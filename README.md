@@ -717,6 +717,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
