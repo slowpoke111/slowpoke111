@@ -720,6 +720,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
