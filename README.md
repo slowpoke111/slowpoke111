@@ -713,6 +713,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
