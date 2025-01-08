@@ -708,6 +708,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
