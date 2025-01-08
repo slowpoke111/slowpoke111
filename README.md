@@ -718,6 +718,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
