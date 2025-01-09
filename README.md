@@ -729,6 +729,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
