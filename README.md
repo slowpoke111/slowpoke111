@@ -741,6 +741,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
