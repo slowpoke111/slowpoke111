@@ -730,6 +730,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
