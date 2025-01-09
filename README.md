@@ -734,6 +734,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
