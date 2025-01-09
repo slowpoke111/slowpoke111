@@ -748,6 +748,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
