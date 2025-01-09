@@ -749,6 +749,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
