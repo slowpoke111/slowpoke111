@@ -735,6 +735,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
