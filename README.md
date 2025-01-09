@@ -746,6 +746,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
