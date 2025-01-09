@@ -751,6 +751,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
