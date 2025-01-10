@@ -763,6 +763,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
