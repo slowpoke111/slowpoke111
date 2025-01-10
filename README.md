@@ -772,6 +772,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
