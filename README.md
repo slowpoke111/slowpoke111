@@ -773,6 +773,7 @@
 
 
 
+
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
