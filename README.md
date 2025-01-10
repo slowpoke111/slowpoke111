@@ -771,6 +771,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
