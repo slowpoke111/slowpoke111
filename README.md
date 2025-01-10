@@ -767,6 +767,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
