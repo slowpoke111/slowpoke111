@@ -774,6 +774,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
