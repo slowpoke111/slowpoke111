@@ -761,6 +761,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
