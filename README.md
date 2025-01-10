@@ -752,6 +752,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
