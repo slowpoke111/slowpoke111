@@ -790,6 +790,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
