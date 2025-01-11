@@ -787,6 +787,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
