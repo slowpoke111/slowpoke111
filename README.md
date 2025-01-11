@@ -775,6 +775,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
