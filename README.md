@@ -784,6 +784,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
