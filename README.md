@@ -781,6 +781,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
