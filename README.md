@@ -794,6 +794,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
