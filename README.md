@@ -793,6 +793,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
