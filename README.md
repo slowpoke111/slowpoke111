@@ -780,6 +780,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
