@@ -785,6 +785,7 @@
 
 
 
+
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> “Python’s motto is ‘There’s only one way to do it,’ but C++’s motto is ‘There’s a million ways to do it, and none of them are safe.’” – Unknown
 
