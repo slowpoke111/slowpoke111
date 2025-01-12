@@ -802,6 +802,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
