@@ -820,6 +820,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
