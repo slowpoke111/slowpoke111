@@ -803,6 +803,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
