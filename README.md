@@ -816,6 +816,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
