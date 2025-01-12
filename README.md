@@ -809,6 +809,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
