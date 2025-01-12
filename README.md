@@ -806,6 +806,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
