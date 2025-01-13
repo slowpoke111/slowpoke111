@@ -843,6 +843,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
 
