@@ -838,6 +838,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
