@@ -821,6 +821,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
