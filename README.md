@@ -831,6 +831,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
