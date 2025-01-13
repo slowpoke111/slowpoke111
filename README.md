@@ -833,6 +833,7 @@
 
 
 
+
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
 
