@@ -826,6 +826,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
