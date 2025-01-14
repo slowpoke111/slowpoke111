@@ -865,6 +865,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
