@@ -850,6 +850,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
