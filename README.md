@@ -860,6 +860,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
