@@ -852,6 +852,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
