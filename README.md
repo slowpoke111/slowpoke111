@@ -858,6 +858,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
