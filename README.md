@@ -881,6 +881,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
