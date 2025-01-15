@@ -867,6 +867,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
