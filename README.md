@@ -875,6 +875,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
