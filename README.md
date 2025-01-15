@@ -876,6 +876,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
