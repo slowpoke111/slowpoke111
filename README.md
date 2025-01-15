@@ -869,6 +869,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
