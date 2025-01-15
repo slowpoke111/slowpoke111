@@ -874,6 +874,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
