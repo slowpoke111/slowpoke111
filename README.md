@@ -891,6 +891,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
