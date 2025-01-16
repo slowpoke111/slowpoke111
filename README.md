@@ -907,6 +907,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
