@@ -910,6 +910,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
