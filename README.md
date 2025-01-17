@@ -934,6 +934,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
