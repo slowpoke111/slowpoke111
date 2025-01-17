@@ -932,6 +932,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
