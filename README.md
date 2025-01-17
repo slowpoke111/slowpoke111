@@ -921,6 +921,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
