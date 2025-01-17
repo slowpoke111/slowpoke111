@@ -933,6 +933,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
