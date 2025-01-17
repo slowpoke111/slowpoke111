@@ -917,6 +917,7 @@
 
 
 
+
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
