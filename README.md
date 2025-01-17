@@ -928,6 +928,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
