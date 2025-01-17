@@ -929,6 +929,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
