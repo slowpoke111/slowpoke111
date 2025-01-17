@@ -935,6 +935,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
