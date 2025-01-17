@@ -930,6 +930,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
