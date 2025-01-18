@@ -943,6 +943,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
