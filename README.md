@@ -957,6 +957,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
