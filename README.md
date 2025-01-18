@@ -953,6 +953,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
