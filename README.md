@@ -946,6 +946,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
