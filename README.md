@@ -956,6 +956,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
