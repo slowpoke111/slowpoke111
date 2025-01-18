@@ -958,6 +958,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
