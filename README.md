@@ -947,6 +947,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
