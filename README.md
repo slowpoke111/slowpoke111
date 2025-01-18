@@ -951,6 +951,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
