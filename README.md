@@ -950,6 +950,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
