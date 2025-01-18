@@ -939,6 +939,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
