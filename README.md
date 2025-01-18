@@ -936,6 +936,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
