@@ -964,6 +964,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
