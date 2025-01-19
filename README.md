@@ -962,6 +962,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
