@@ -963,6 +963,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
