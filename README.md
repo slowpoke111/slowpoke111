@@ -961,6 +961,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
