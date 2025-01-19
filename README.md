@@ -976,6 +976,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
