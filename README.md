@@ -972,6 +972,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
