@@ -960,6 +960,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
