@@ -996,6 +996,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
