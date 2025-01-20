@@ -992,6 +992,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
