@@ -1002,6 +1002,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
