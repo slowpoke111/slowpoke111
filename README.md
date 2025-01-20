@@ -1001,6 +1001,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
