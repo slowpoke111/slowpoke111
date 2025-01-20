@@ -1003,6 +1003,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
