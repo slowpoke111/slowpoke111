@@ -986,6 +986,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
