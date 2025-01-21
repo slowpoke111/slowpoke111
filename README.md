@@ -1014,6 +1014,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
