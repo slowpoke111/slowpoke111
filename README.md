@@ -1007,6 +1007,7 @@
 
 
 
+
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
