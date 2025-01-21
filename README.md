@@ -1008,6 +1008,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
