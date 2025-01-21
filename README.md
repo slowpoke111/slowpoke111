@@ -1019,6 +1019,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
