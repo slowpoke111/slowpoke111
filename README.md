@@ -1012,6 +1012,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
