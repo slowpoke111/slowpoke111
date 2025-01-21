@@ -1020,6 +1020,7 @@
 
 
 
+
 ## Random quote of the hour
-> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
