@@ -1018,6 +1018,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
