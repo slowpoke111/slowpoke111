@@ -1011,6 +1011,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
