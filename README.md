@@ -1022,6 +1022,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
