@@ -1017,6 +1017,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
