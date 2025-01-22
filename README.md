@@ -1044,6 +1044,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
