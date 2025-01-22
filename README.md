@@ -1028,6 +1028,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
