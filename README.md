@@ -1043,6 +1043,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
 
