@@ -1040,6 +1040,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
