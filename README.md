@@ -1045,6 +1045,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
