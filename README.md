@@ -1039,6 +1039,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 
