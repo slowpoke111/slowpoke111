@@ -1034,6 +1034,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
