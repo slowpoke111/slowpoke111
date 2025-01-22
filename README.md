@@ -1049,6 +1049,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
