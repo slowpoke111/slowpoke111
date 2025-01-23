@@ -1056,6 +1056,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
