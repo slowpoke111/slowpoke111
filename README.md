@@ -1055,6 +1055,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
