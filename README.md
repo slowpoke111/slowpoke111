@@ -1066,6 +1066,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
