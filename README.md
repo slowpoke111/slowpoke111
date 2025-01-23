@@ -1072,6 +1072,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
