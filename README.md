@@ -1070,6 +1070,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
