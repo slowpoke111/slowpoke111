@@ -1057,6 +1057,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
