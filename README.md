@@ -1068,6 +1068,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
