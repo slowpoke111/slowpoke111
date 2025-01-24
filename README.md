@@ -1081,6 +1081,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
 
