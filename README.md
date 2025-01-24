@@ -1096,6 +1096,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
