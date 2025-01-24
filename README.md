@@ -1079,6 +1079,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
