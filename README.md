@@ -1088,6 +1088,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
