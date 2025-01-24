@@ -1083,6 +1083,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
