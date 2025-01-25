@@ -1110,6 +1110,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
