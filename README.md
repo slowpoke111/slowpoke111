@@ -1112,6 +1112,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
