@@ -1097,6 +1097,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
