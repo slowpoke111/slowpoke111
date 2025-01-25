@@ -1113,6 +1113,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
