@@ -1098,6 +1098,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
