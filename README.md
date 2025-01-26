@@ -1125,6 +1125,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
