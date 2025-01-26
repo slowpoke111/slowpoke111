@@ -1134,6 +1134,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
