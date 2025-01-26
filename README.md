@@ -1140,6 +1140,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
