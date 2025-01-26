@@ -1129,6 +1129,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
