@@ -1120,6 +1120,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
