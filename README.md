@@ -1150,6 +1150,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
