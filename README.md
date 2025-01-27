@@ -1153,6 +1153,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
