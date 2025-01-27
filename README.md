@@ -1146,6 +1146,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
