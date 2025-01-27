@@ -1165,6 +1165,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
