@@ -1145,6 +1145,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
