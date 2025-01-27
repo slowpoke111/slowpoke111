@@ -1163,6 +1163,7 @@
 
 
 
+
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
