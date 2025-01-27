@@ -1157,6 +1157,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
 
