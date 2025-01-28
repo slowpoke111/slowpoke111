@@ -1171,6 +1171,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
