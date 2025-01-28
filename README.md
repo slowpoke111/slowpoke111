@@ -1172,6 +1172,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
