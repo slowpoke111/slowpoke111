@@ -1174,6 +1174,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
