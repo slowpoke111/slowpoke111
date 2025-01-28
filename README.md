@@ -1175,6 +1175,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
