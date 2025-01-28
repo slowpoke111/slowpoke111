@@ -1184,6 +1184,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
