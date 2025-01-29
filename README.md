@@ -1201,6 +1201,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
 
