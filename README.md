@@ -1192,6 +1192,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
