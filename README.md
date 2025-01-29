@@ -1211,6 +1211,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
