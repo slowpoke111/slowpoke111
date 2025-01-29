@@ -1199,6 +1199,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
