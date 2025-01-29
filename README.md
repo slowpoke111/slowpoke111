@@ -1197,6 +1197,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
