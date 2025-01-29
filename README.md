@@ -1207,6 +1207,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
