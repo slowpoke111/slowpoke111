@@ -1228,6 +1228,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
