@@ -1215,6 +1215,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
