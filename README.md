@@ -1232,6 +1232,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
