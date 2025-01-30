@@ -1218,6 +1218,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
