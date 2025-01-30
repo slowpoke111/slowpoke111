@@ -1222,6 +1222,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
