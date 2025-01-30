@@ -1226,6 +1226,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
