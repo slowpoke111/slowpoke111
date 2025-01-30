@@ -1217,6 +1217,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
