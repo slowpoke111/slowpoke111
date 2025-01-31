@@ -1257,6 +1257,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
