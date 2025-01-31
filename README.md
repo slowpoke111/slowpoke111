@@ -1250,6 +1250,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
