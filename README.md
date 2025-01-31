@@ -1247,6 +1247,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
