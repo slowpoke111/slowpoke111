@@ -1240,6 +1240,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
 
