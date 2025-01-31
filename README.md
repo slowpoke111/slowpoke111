@@ -1252,6 +1252,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
