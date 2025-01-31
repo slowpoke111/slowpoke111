@@ -1246,6 +1246,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
