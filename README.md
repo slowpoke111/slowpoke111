@@ -1236,6 +1236,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
