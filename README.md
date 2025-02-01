@@ -1260,6 +1260,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
