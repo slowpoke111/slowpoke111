@@ -1264,6 +1264,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
