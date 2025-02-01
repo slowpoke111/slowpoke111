@@ -1261,6 +1261,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
