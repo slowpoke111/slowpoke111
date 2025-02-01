@@ -1280,6 +1280,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
