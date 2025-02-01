@@ -1276,6 +1276,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
