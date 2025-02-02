@@ -1290,6 +1290,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
