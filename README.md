@@ -1295,6 +1295,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
