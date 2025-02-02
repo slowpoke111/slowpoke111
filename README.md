@@ -1291,6 +1291,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
