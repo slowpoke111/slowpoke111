@@ -1301,6 +1301,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
