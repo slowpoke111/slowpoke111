@@ -1289,6 +1289,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
