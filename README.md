@@ -1296,6 +1296,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
 
