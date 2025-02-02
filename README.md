@@ -1286,6 +1286,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
