@@ -1322,6 +1322,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
 
