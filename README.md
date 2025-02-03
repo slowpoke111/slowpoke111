@@ -1312,6 +1312,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
