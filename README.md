@@ -1306,6 +1306,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
