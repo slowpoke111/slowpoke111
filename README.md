@@ -1325,6 +1325,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
