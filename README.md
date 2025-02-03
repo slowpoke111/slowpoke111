@@ -1310,6 +1310,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
 
