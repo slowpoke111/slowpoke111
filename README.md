@@ -1344,6 +1344,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
 
