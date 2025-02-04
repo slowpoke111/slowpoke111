@@ -1327,6 +1327,7 @@
 
 
 
+
 ## Random quote of the hour
-> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
