@@ -1335,6 +1335,7 @@
 
 
 
+
 ## Random quote of the hour
-> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
