@@ -1329,6 +1329,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
