@@ -1366,6 +1366,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
