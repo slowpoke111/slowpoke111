@@ -1350,6 +1350,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
