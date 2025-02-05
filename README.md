@@ -1353,6 +1353,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
