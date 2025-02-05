@@ -1354,6 +1354,7 @@
 
 
 
+
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
