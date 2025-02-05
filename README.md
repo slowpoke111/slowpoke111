@@ -1364,6 +1364,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
