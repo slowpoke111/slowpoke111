@@ -1371,6 +1371,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
 
