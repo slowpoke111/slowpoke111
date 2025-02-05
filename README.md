@@ -1363,6 +1363,7 @@
 
 
 
+
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
