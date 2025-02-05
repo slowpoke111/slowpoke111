@@ -1362,6 +1362,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
