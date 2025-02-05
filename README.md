@@ -1356,6 +1356,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
