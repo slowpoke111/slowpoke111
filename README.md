@@ -1357,6 +1357,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
