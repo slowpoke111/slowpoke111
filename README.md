@@ -1394,6 +1394,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In C++, you can break the program and fix it 100 different ways, but Java will let you break it with just one line of code.” — Herb Sutter
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
