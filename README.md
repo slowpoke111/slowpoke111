@@ -1390,6 +1390,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
