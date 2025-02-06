@@ -1378,6 +1378,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
