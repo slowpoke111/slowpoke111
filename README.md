@@ -1374,6 +1374,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
