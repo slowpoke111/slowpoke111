@@ -1392,6 +1392,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
