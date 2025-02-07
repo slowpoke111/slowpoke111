@@ -1401,6 +1401,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
