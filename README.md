@@ -1425,6 +1425,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
