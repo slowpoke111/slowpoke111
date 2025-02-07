@@ -1418,6 +1418,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
