@@ -1421,6 +1421,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
