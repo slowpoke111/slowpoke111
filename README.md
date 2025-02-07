@@ -1427,6 +1427,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
