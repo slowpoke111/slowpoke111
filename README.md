@@ -1399,6 +1399,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
