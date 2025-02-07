@@ -1400,6 +1400,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
