@@ -1433,6 +1433,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
