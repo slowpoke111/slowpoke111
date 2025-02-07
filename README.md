@@ -1414,6 +1414,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
