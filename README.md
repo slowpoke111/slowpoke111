@@ -1413,6 +1413,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
