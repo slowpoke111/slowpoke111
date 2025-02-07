@@ -1417,6 +1417,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
