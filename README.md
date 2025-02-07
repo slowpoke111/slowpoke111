@@ -1424,6 +1424,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
