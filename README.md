@@ -1405,6 +1405,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
