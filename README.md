@@ -1432,6 +1432,7 @@
 
 
 
+
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 
