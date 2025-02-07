@@ -8,7 +8,7 @@ on:
 
   # Trigger on every hour (using cron schedule)
   schedule:
-    - cron: '0 * * * *'  
+    - cron: '*/5 * * * *'  
 
   # Allow manual trigger of the workflow
   workflow_dispatch:
