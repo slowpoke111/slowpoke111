@@ -1513,6 +1513,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
