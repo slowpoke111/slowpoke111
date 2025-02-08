@@ -1463,6 +1463,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
