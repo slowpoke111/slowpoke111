@@ -1512,6 +1512,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
 
