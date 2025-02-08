@@ -1439,6 +1439,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.” — Rich Cook
 
