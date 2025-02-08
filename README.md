@@ -1538,6 +1538,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
 
