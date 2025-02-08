@@ -1505,6 +1505,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
