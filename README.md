@@ -1458,6 +1458,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
