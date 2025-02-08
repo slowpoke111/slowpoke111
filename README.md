@@ -1482,6 +1482,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
