@@ -1443,6 +1443,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
