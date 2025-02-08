@@ -1479,6 +1479,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
