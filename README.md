@@ -1534,6 +1534,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
