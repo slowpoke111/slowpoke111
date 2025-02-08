@@ -1474,6 +1474,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
