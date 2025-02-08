@@ -1446,6 +1446,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
