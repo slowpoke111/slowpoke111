@@ -1519,6 +1519,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
