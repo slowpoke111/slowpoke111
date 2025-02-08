@@ -1470,6 +1470,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
