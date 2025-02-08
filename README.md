@@ -1511,6 +1511,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
