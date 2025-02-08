@@ -1444,6 +1444,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
