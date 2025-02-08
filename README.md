@@ -1483,6 +1483,7 @@
 
 
 
+
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
