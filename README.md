@@ -1462,6 +1462,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
