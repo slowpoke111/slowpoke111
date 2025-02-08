@@ -1531,6 +1531,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
