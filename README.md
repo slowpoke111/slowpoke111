@@ -1508,6 +1508,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
