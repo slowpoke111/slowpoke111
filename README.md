@@ -1495,6 +1495,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
