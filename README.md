@@ -1484,6 +1484,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
