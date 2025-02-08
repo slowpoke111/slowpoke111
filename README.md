@@ -1533,6 +1533,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
