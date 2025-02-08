@@ -1507,6 +1507,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
