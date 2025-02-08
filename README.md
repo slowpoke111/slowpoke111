@@ -1514,6 +1514,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
 
