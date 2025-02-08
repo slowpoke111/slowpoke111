@@ -1551,6 +1551,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
