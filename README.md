@@ -1450,6 +1450,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
