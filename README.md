@@ -1452,6 +1452,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
