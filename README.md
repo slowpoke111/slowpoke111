@@ -1464,6 +1464,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
