@@ -1558,6 +1558,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
