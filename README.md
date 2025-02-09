@@ -1593,6 +1593,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
