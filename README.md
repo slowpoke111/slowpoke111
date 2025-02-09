@@ -1553,6 +1553,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
