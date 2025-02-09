@@ -1618,6 +1618,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
