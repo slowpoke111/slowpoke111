@@ -1586,6 +1586,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
