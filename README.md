@@ -1650,6 +1650,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
