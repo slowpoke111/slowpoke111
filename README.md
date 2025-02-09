@@ -1607,6 +1607,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
