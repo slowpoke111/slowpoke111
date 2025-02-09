@@ -1619,6 +1619,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
