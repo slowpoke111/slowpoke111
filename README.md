@@ -1567,6 +1567,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
