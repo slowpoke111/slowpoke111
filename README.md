@@ -1606,6 +1606,7 @@
 
 
 
+
 ## Random quote of the hour
-> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
