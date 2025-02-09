@@ -1555,6 +1555,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
