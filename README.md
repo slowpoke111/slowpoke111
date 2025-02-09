@@ -57,6 +57,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
