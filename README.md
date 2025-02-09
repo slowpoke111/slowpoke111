@@ -1603,6 +1603,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
