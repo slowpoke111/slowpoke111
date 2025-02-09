@@ -1569,6 +1569,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
