@@ -1559,6 +1559,7 @@
 
 
 
+
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
