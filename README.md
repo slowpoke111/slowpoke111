@@ -1621,6 +1621,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
