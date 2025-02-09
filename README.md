@@ -1614,6 +1614,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
 
