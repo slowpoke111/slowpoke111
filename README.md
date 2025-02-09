@@ -1588,6 +1588,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
