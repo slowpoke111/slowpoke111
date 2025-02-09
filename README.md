@@ -1601,6 +1601,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
