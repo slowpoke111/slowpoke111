@@ -1581,6 +1581,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
