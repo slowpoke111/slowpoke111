@@ -1626,6 +1626,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.” — Rich Cook
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
