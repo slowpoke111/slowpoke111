@@ -1641,6 +1641,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
