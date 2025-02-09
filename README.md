@@ -1642,6 +1642,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
