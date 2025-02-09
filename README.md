@@ -1639,6 +1639,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
 
