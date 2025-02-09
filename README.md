@@ -1628,6 +1628,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
