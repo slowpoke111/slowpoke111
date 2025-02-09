@@ -1645,6 +1645,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
