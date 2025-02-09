@@ -1587,6 +1587,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
