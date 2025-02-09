@@ -1613,6 +1613,7 @@
 
 
 
+
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
