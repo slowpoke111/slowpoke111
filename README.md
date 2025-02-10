@@ -72,6 +72,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
