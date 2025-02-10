@@ -71,6 +71,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
