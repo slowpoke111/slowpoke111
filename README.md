@@ -74,6 +74,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
