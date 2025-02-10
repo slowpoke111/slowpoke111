@@ -84,6 +84,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
