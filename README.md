@@ -58,6 +58,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
