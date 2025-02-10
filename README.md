@@ -66,6 +66,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
