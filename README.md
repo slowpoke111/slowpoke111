@@ -59,6 +59,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
