@@ -73,6 +73,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
