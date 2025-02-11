@@ -101,6 +101,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
