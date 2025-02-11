@@ -88,6 +88,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
