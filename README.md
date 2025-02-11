@@ -108,6 +108,7 @@
 
 
 
+
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
