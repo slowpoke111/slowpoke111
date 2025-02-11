@@ -96,6 +96,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
