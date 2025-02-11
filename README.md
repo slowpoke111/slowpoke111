@@ -94,6 +94,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
