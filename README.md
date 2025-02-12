@@ -115,6 +115,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
