@@ -123,6 +123,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
