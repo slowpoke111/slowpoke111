@@ -112,6 +112,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
