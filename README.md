@@ -113,6 +113,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
