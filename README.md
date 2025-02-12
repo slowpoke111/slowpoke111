@@ -121,6 +121,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
 
