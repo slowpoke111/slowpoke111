@@ -111,6 +111,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
