@@ -119,6 +119,7 @@
 
 
 
+
 ## Random quote of the hour
-> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
