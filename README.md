@@ -144,6 +144,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
