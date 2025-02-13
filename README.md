@@ -146,6 +146,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
