@@ -141,6 +141,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
