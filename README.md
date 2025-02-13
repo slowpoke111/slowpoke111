@@ -139,6 +139,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
