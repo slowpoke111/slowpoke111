@@ -142,6 +142,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
