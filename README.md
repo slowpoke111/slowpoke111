@@ -145,6 +145,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
