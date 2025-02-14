@@ -170,6 +170,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment becomes unnecessary?’” — Steve McConnell
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
