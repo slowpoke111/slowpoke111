@@ -163,6 +163,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
