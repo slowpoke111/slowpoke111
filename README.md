@@ -175,6 +175,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
