@@ -172,6 +172,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
