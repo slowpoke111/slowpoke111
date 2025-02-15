@@ -200,6 +200,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
