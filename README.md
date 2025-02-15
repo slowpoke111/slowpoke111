@@ -199,6 +199,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
