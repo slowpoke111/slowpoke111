@@ -196,6 +196,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
