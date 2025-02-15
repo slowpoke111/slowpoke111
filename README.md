@@ -182,6 +182,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
