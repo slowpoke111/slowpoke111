@@ -178,6 +178,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
