@@ -185,6 +185,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
