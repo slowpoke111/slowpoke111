@@ -180,6 +180,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
