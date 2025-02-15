@@ -183,6 +183,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
 
