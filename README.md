@@ -184,6 +184,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
