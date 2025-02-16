@@ -209,6 +209,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
