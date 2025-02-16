@@ -203,6 +203,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
