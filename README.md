@@ -206,6 +206,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
