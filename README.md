@@ -219,6 +219,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
