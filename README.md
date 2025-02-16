@@ -208,6 +208,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
