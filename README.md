@@ -211,6 +211,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
