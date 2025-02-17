@@ -227,6 +227,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
