@@ -232,6 +232,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
