@@ -246,6 +246,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
 
