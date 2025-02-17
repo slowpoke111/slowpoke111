@@ -236,6 +236,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
