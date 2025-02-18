@@ -249,6 +249,7 @@
 
 
 
+
 ## Random quote of the hour
-> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
 
