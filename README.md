@@ -267,6 +267,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
