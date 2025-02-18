@@ -260,6 +260,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
