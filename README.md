@@ -262,6 +262,7 @@
 
 
 
+
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
