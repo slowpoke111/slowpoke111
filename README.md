@@ -252,6 +252,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
