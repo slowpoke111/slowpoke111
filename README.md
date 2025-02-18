@@ -256,6 +256,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
