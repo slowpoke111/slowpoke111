@@ -257,6 +257,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
