@@ -281,6 +281,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
 
