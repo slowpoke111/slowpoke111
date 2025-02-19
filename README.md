@@ -274,6 +274,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
