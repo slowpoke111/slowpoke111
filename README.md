@@ -291,6 +291,7 @@
 
 
 
+
 ## Random quote of the hour
-> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
