@@ -282,6 +282,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
