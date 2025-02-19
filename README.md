@@ -286,6 +286,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
