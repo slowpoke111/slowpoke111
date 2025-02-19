@@ -285,6 +285,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
