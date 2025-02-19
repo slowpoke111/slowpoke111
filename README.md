@@ -270,6 +270,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
