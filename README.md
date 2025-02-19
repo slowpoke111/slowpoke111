@@ -288,6 +288,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
