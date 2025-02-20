@@ -309,6 +309,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
+> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 
