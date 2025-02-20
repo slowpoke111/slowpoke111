@@ -304,6 +304,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
 
