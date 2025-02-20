@@ -301,6 +301,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
