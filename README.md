@@ -307,6 +307,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
