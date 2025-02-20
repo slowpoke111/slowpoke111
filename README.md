@@ -293,6 +293,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
