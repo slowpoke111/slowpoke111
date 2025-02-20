@@ -313,6 +313,7 @@
 
 
 
+
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
