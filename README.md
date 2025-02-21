@@ -320,6 +320,7 @@
 
 
 
+
 ## Random quote of the hour
 > “C++: where syntax errors turn into existential crises.” – Unknown
 
