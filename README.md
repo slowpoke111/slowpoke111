@@ -331,6 +331,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
