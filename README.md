@@ -319,6 +319,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
