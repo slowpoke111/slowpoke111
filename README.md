@@ -328,6 +328,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
