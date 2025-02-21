@@ -333,6 +333,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
