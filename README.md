@@ -345,6 +345,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
