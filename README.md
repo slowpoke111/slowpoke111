@@ -357,6 +357,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
