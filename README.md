@@ -343,6 +343,7 @@
 
 
 
+
 ## Random quote of the hour
-> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
