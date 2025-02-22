@@ -350,6 +350,7 @@
 
 
 
+
 ## Random quote of the hour
-> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
