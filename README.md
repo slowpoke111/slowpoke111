@@ -340,6 +340,7 @@
 
 
 
+
 ## Random quote of the hour
-> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
