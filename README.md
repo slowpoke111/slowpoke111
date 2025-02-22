@@ -342,6 +342,7 @@
 
 
 
+
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
