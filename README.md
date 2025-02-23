@@ -382,6 +382,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
