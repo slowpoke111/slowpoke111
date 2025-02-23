@@ -368,6 +368,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
