@@ -375,6 +375,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
