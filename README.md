@@ -367,6 +367,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
