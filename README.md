@@ -363,6 +363,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “Java: The write-once, debug-everywhere language.” – Unknown
 
