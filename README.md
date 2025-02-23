@@ -383,6 +383,7 @@
 
 
 
+
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
