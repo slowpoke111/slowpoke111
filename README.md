@@ -365,6 +365,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
