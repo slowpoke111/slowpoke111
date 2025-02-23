@@ -364,6 +364,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
