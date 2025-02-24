@@ -99,3 +99,7 @@ Random quote of the hour
 Random quote of the hour
 > “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.” — Rich Cook
 
+## 
+Random quote of the hour
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+
