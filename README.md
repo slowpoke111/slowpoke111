@@ -87,3 +87,7 @@ Random quote of the hour
 Random quote of the hour
 > “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
+## 
+Random quote of the hour
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+
