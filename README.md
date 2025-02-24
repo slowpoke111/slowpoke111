@@ -63,3 +63,7 @@ Random quote of the hour
 Random quote of the hour
 > “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
 
+## 
+Random quote of the hour
+> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+
