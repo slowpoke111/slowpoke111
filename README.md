@@ -83,3 +83,7 @@ Random quote of the hour
 Random quote of the hour
 > “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
+## 
+Random quote of the hour
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+
