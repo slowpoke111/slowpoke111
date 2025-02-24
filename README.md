@@ -103,3 +103,7 @@ Random quote of the hour
 Random quote of the hour
 > “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
+## 
+Random quote of the hour
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+
