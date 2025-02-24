@@ -91,3 +91,7 @@ Random quote of the hour
 Random quote of the hour
 > “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
+## 
+Random quote of the hour
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+
