@@ -59,3 +59,7 @@
 Random quote of the hour
 > "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
+## 
+Random quote of the hour
+> “In AI, there's a saying: 'The more data you throw at the problem, the less you actually understand the problem.’” – Unknown
+
