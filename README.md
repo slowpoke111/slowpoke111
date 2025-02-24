@@ -71,3 +71,7 @@ Random quote of the hour
 Random quote of the hour
 > "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
+## 
+Random quote of the hour
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
+
