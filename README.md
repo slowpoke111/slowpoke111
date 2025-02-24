@@ -79,3 +79,7 @@ Random quote of the hour
 Random quote of the hour
 > "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
+## 
+Random quote of the hour
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+
