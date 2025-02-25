@@ -139,3 +139,7 @@ Random quote of the hour
 Random quote of the hour
 > “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
+## 
+Random quote of the hour
+> "The better the documentation, the less anyone reads it." — Martin Fowler
+
