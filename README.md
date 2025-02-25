@@ -163,3 +163,7 @@ Random quote of the hour
 Random quote of the hour
 > "The closer the deadline, the longer it takes to finish." — Unknown
 
+## 
+Random quote of the hour
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
+
