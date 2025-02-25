@@ -115,3 +115,7 @@ Random quote of the hour
 Random quote of the hour
 > "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
+## 
+Random quote of the hour
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+
