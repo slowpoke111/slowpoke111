@@ -127,3 +127,7 @@ Random quote of the hour
 Random quote of the hour
 > "The closer the deadline, the longer it takes to finish." — Unknown
 
+## 
+Random quote of the hour
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+
