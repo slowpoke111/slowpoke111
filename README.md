@@ -119,3 +119,7 @@ Random quote of the hour
 Random quote of the hour
 > "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
+## 
+Random quote of the hour
+> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+
