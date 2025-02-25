@@ -155,3 +155,7 @@ Random quote of the hour
 Random quote of the hour
 > “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
 
+## 
+Random quote of the hour
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+
