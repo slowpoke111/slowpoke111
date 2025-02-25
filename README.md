@@ -183,3 +183,7 @@ Random quote of the hour
 Random quote of the hour
 > "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
+## 
+Random quote of the hour
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+
