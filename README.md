@@ -135,3 +135,7 @@ Random quote of the hour
 Random quote of the hour
 > “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
+## 
+Random quote of the hour
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+
