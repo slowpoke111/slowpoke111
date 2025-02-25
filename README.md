@@ -167,3 +167,7 @@ Random quote of the hour
 Random quote of the hour
 > ” The code you write today will be the code you curse tomorrow.” – Unknown
 
+## 
+Random quote of the hour
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+
