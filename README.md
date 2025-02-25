@@ -191,3 +191,7 @@ Random quote of the hour
 Random quote of the hour
 > “When you solve one problem, ten more appear to take its place.” — Unknown
 
+## 
+Random quote of the hour
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+
