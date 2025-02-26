@@ -283,3 +283,7 @@ Random quote of the hour
 Random quote of the hour
 > "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 
+## 
+Random quote of the hour
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+
