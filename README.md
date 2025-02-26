@@ -227,3 +227,7 @@ Random quote of the hour
 Random quote of the hour
 > “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
+## 
+Random quote of the hour
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+
