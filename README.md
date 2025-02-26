@@ -219,3 +219,7 @@ Random quote of the hour
 Random quote of the hour
 > "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
+## 
+Random quote of the hour
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+
