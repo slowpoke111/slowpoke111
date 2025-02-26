@@ -267,3 +267,7 @@ Random quote of the hour
 Random quote of the hour
 > "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
+## 
+Random quote of the hour
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+
