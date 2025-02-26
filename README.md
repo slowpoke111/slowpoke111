@@ -279,3 +279,7 @@ Random quote of the hour
 Random quote of the hour
 > "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
 
+## 
+Random quote of the hour
+> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+
