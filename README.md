@@ -275,3 +275,7 @@ Random quote of the hour
 Random quote of the hour
 > “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
+## 
+Random quote of the hour
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+
