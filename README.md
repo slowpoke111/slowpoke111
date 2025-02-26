@@ -211,3 +211,7 @@ Random quote of the hour
 Random quote of the hour
 > ” The code you write today will be the code you curse tomorrow.” – Unknown
 
+## 
+Random quote of the hour
+> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
+
