@@ -259,3 +259,7 @@ Random quote of the hour
 Random quote of the hour
 > “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
+## 
+Random quote of the hour
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+
