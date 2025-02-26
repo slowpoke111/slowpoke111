@@ -247,3 +247,7 @@ Random quote of the hour
 Random quote of the hour
 > “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
+## 
+Random quote of the hour
+> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+
