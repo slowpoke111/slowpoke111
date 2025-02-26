@@ -207,3 +207,7 @@ Random quote of the hour
 Random quote of the hour
 > “When you solve one problem, ten more appear to take its place.” — Unknown
 
+## 
+Random quote of the hour
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
+
