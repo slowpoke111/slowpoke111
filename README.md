@@ -239,3 +239,7 @@ Random quote of the hour
 Random quote of the hour
 > “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
 
+## 
+Random quote of the hour
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+
