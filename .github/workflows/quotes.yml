@@ -40,7 +40,7 @@ jobs:
           fi
 
           # Append the new random quote with heading to the end of README.md
-          echo -e "## \nRandom quote of the hour\n> $RANDOM_QUOTE\n" >> README.md
+          echo -e "\n## Random quote of the hour\n> $RANDOM_QUOTE\n" >> README.md
 
           # Commit and push the change to the repository
           git config --global user.name "Ben Bell's Bot"
