@@ -291,3 +291,7 @@ Random quote of the hour
 Random quote of the hour
 > “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
+## 
+Random quote of the hour
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
+
