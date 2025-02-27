@@ -307,3 +307,7 @@ Random quote of the hour
 Random quote of the hour
 > “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
+## 
+Random quote of the hour
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+
