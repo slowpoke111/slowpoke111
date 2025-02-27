@@ -303,3 +303,7 @@ Random quote of the hour
 Random quote of the hour
 > “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 
+## 
+Random quote of the hour
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+
