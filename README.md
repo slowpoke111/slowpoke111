@@ -327,3 +327,7 @@ Random quote of the hour
 Random quote of the hour
 > “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
+## 
+Random quote of the hour
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+
