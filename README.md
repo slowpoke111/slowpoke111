@@ -295,3 +295,7 @@ Random quote of the hour
 Random quote of the hour
 > “When debugging, novices insert print statements, experts remove them.” — Unknown
 
+## 
+Random quote of the hour
+> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+
