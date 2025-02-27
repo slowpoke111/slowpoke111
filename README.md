@@ -371,3 +371,7 @@ Random quote of the hour
 Random quote of the hour
 > “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
+## 
+Random quote of the hour
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+
