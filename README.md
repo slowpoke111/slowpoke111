@@ -52,11 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="70" width="70"/>
    <img src= "https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg" height="70" width="70"/>
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
-  
-
-## 
-Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
 
 ## Random quote of the hour
 > "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
