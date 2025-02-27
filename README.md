@@ -315,3 +315,7 @@ Random quote of the hour
 Random quote of the hour
 > "The better the documentation, the less anyone reads it." — Martin Fowler
 
+## 
+Random quote of the hour
+> “When you solve one problem, ten more appear to take its place.” — Unknown
+
