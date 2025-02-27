@@ -57,3 +57,7 @@
 ## 
 Random quote of the hour
 > “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+
+## Random quote of the hour
+> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+
