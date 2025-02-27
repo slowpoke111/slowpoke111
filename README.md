@@ -53,6 +53,7 @@
    <img src= "https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg" height="70" width="70"/>
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
+
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
