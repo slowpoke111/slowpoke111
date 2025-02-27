@@ -323,3 +323,7 @@ Random quote of the hour
 Random quote of the hour
 > “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
+## 
+Random quote of the hour
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+
