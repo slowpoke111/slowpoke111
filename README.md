@@ -359,3 +359,7 @@ Random quote of the hour
 Random quote of the hour
 > "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
+## 
+Random quote of the hour
+> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+
