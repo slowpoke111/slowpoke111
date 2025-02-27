@@ -311,3 +311,7 @@ Random quote of the hour
 Random quote of the hour
 > "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
+## 
+Random quote of the hour
+> "The better the documentation, the less anyone reads it." — Martin Fowler
+
