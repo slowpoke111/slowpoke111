@@ -367,3 +367,7 @@ Random quote of the hour
 Random quote of the hour
 > ” The code you write today will be the code you curse tomorrow.” – Unknown
 
+## 
+Random quote of the hour
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+
