@@ -299,3 +299,7 @@ Random quote of the hour
 Random quote of the hour
 > ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
+## 
+Random quote of the hour
+> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+
