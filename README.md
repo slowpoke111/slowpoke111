@@ -363,3 +363,7 @@ Random quote of the hour
 Random quote of the hour
 > “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
 
+## 
+Random quote of the hour
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
+
