@@ -62,6 +62,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
