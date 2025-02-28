@@ -56,6 +56,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
