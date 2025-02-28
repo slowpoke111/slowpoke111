@@ -55,6 +55,7 @@
 
 
 
+
 ## Random quote of the hour
-> “If you don't care about performance, you can write the cleanest, most beautiful code and still make your users want to throw their machines out the window.” — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
