@@ -57,6 +57,7 @@
 
 
 
+
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
