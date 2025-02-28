@@ -61,6 +61,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
