@@ -58,6 +58,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
