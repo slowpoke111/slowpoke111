@@ -63,6 +63,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
