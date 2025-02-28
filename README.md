@@ -60,6 +60,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
