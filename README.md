@@ -60,6 +60,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
