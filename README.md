@@ -82,6 +82,7 @@
 
 
 
+
 ## Random quote of the hour
-> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
