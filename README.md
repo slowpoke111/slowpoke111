@@ -80,6 +80,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
 
