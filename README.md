@@ -96,6 +96,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
