@@ -109,6 +109,7 @@
 
 
 
+
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
