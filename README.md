@@ -95,6 +95,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
