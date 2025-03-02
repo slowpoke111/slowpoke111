@@ -110,6 +110,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
