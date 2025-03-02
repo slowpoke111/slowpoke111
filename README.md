@@ -102,6 +102,7 @@
 
 
 
+
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
