@@ -97,6 +97,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
 
