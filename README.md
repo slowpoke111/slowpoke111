@@ -100,6 +100,7 @@
 
 
 
+
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
