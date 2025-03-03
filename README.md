@@ -123,6 +123,7 @@
 
 
 
+
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
