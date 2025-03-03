@@ -55,5 +55,5 @@
   
 
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
