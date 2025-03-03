@@ -112,6 +112,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
