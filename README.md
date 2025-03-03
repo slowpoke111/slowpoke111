@@ -53,6 +53,7 @@
    <img src= "https://github.com/wpilibsuite/branding/blob/main/wpilib-generic.svg" height="70" width="70"/>
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
