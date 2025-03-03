@@ -111,6 +111,7 @@
 
 
 
+
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
