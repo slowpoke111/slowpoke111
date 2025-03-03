@@ -118,6 +118,7 @@
 
 
 
+
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
