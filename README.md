@@ -125,6 +125,7 @@
 
 
 
+
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
