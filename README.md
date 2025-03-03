@@ -122,6 +122,7 @@
 
 
 
+
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
