@@ -120,6 +120,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
