@@ -117,6 +117,7 @@
 
 
 
+
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
