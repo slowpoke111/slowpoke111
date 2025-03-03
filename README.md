@@ -121,6 +121,7 @@
 
 
 
+
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
