@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
