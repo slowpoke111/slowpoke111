@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
 
