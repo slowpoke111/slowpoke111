@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
