@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
