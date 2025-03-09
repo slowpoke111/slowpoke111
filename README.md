@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
