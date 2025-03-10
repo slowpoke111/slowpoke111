@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
