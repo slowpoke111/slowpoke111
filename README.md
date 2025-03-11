@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
