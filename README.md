@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
 
