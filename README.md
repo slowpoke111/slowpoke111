@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
