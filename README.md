@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
