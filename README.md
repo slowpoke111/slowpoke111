@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
