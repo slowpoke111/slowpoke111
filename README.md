@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
