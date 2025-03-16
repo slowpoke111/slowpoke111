@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
