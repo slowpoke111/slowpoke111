@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
