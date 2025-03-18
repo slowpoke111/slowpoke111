@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
