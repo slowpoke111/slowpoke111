@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
