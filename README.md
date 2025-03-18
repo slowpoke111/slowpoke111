@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
