@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
