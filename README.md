@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
