@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
 
