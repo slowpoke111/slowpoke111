@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
 
