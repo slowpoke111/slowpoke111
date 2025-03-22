@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
 
