@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
