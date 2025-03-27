@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
