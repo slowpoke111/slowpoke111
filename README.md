@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
