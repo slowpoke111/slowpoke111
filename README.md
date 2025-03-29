@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
