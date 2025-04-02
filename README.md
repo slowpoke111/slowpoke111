@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
