@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
