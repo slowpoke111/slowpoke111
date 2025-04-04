@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
