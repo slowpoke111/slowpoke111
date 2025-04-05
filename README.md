@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
