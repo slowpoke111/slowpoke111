@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
 
