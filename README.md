@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
