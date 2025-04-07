@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
