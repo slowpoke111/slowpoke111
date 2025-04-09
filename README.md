@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
