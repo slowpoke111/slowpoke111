@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
+> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
 
