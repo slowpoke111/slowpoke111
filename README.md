@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
