@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> ” The code you write today will be the code you curse tomorrow.” – Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
