@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
