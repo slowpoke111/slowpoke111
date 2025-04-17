@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
