@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
