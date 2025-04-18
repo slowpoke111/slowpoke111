@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
