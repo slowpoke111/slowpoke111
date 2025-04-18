@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
