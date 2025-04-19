@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
