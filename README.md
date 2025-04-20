@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
