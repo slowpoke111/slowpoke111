@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
