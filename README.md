@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
