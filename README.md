@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
