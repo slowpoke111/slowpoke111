@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
