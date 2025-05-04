@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
