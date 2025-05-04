@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
