@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
