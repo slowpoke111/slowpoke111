@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
