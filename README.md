@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
