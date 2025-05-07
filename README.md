@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “In USACO, the only thing more dangerous than a bug is the incorrect assumption you made when reading the problem statement.” – Unknown
 
