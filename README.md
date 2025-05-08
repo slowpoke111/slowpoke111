@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
