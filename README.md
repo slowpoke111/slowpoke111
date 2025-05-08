@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
 
