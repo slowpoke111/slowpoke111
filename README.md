@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
