@@ -54,5 +54,5 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
   
 ## Random quote of the hour
-> ” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
