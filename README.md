@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
+> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
 
