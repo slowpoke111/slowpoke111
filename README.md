@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
