@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
