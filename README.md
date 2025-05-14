@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
