@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
 
