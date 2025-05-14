@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
 
