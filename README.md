@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
