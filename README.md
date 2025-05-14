@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
