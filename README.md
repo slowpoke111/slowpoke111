@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
