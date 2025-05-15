@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
