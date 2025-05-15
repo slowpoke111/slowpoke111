@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
