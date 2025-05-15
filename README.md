@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
