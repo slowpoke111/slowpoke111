@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
