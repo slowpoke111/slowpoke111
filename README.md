@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
