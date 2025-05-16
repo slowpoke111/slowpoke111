@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
