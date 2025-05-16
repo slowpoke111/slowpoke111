@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
