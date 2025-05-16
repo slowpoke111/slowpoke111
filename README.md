@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
