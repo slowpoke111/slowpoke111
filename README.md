@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
 
