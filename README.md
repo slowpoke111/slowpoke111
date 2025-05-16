@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
