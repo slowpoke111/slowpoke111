@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
