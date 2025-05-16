@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
+> “Software is 90% complete and 90% incomplete at the same time.” — Unknown
 
