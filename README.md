@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
