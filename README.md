@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
