@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
