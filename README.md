@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
