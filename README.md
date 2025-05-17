@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
