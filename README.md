@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
