@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
