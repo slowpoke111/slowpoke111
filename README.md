@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
