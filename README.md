@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
