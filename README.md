@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
