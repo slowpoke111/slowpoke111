@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
 
