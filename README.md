@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
