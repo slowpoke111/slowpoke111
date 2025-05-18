@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
