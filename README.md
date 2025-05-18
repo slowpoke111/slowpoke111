@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “If you don't care about performance, you can write the cleanest, most beautiful code and still make your users want to throw their machines out the window.” — Unknown
 
