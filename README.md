@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
 
