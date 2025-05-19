@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
