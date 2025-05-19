@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
 
