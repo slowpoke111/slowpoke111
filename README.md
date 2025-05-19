@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
