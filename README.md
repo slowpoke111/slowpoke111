@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
