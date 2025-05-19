@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
