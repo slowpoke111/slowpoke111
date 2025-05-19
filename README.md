@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
