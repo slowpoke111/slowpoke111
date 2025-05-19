@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
+> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
 
