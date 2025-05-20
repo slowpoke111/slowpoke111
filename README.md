@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
