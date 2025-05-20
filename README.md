@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
