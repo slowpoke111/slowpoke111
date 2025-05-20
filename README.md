@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “In C++, you can break the program and fix it 100 different ways, but Java will let you break it with just one line of code.” — Herb Sutter
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
