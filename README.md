@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> ” The code you write today will be the code you curse tomorrow.” – Unknown
 
