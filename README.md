@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
