@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
