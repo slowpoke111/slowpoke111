@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
