@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
