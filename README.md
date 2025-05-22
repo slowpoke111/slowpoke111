@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
