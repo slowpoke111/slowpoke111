@@ -6,8 +6,8 @@
 “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
 “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
-” The code you write today will be the code you curse tomorrow.” – Unknown
-” I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+"The code you write today will be the code you curse tomorrow.” – Unknown
+"I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
@@ -120,3 +120,20 @@
 "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." — Tom Cargill (Bell Labs)
+"The sooner you fall behind, the more time you'll have to catch up." — Unknown
+"Requirements are the things we must misunderstand so we can write code that doesn't work." — Unknown
+"Multithreading is like having two hands. You can do twice as much, or you can poke yourself in both eyes at the same time." — Unknown
+"If the code and the comments disagree, both are probably wrong." — Norm Schryer
+"The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+"Encryption works. Properly implemented strong crypto systems are one of the few things you can rely on." — Edward Snowden
+"Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
+"Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
+"In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+"Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+"Most vulnerabilities are just features from the wrong perspective." — Unknown
+"Complexity is the enemy of security, reliability, and your sanity." — Unknown
+"The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+"You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
+"Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+"If your code compiles on the first try, you forgot to save the file." — Unknown
