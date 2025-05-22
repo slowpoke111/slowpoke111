@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Random Quote</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    #quoteDisplay {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      max-width: 80%;
+      text-align: center;
+      font-size: 1.25rem;
+    }
+
+    button {
+      margin-top: 1.5rem;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      border-radius: 0.5rem;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="quoteDisplay">Loading quote...</div>
+  <button onclick="loadRandomQuote()">New Quote</button>
+
+  <script>
+    let quotes = [];
+
+    async function fetchQuotes() {
+      try {
+        const response = await fetch('./quotes.txt');
+        if (!response.ok) {
+          throw new Error('Failed to fetch quotes.txt');
+        }
+        const text = await response.text();
+        quotes = text.split(/\r?\n/).filter(line => line.trim().length > 0);
+        loadRandomQuote();
+      } catch (error) {
+        document.getElementById('quoteDisplay').textContent = 'Error loading quotes.';
+        console.error(error);
+      }
+    }
+
+    function loadRandomQuote() {
+      if (quotes.length === 0) {
+        document.getElementById('quoteDisplay').textContent = 'No quotes loaded.';
+        return;
+      }
+      const randomIndex = Math.floor(Math.random() * quotes.length);
+      document.getElementById('quoteDisplay').textContent = quotes[randomIndex];
+    }
+
+    // Initial fetch on load
+    fetchQuotes();
+  </script>
+</body>
+</html>
