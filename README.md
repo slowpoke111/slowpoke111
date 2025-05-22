@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
