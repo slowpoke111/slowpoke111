@@ -5,45 +5,95 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Random Quote</title>
   <style>
+    :root {
+      --primary-color: #007bff;
+      --secondary-color: #ffffff;
+      --bg-gradient: linear-gradient(135deg, #74ebd5, #9face6);
+      --card-bg: rgba(255, 255, 255, 0.85);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      color: #333;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--bg-gradient);
+      color: #222;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 100vh;
-      margin: 0;
+      min-height: 100vh;
+      position: relative;
+      padding: 2rem;
     }
 
     #quoteDisplay {
-      background-color: white;
-      padding: 2rem;
+      background: var(--card-bg);
+      padding: 2rem 3rem;
       border-radius: 1rem;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      max-width: 80%;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      max-width: 700px;
       text-align: center;
-      font-size: 1.25rem;
+      font-size: 1.5rem;
+      line-height: 1.6;
     }
 
     button {
-      margin-top: 1.5rem;
-      padding: 0.5rem 1rem;
-      font-size: 1rem;
+      margin-top: 2rem;
+      padding: 0.75rem 1.5rem;
+      font-size: 1.1rem;
       border: none;
-      background-color: #007bff;
-      color: white;
+      background-color: var(--primary-color);
+      color: var(--secondary-color);
       border-radius: 0.5rem;
       cursor: pointer;
+      transition: background-color 0.3s ease;
     }
 
     button:hover {
       background-color: #0056b3;
     }
+
+    #prButton {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      padding: 0.5rem 1rem;
+      font-size: 0.9rem;
+      border: none;
+      background-color: #28a745;
+      color: white;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    #prButton:hover {
+      background-color: #218838;
+    }
+
+    @media (max-width: 600px) {
+      #quoteDisplay {
+        font-size: 1.1rem;
+        padding: 1.5rem;
+      }
+
+      #prButton {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+      }
+    }
   </style>
 </head>
 <body>
+
+  <a href="https://github.com/slowpoke111/slowpoke111" id="prButton" target="_blank" rel="noopener noreferrer">
+    Contribute Quotes →
+  </a>
 
   <div id="quoteDisplay">Loading quote...</div>
   <button onclick="loadRandomQuote()">New Quote</button>
@@ -54,9 +104,7 @@
     async function fetchQuotes() {
       try {
         const response = await fetch('./quotes.txt');
-        if (!response.ok) {
-          throw new Error('Failed to fetch quotes.txt');
-        }
+        if (!response.ok) throw new Error('Failed to fetch quotes.txt');
         const text = await response.text();
         quotes = text.split(/\r?\n/).filter(line => line.trim().length > 0);
         loadRandomQuote();
@@ -75,7 +123,6 @@
       document.getElementById('quoteDisplay').textContent = quotes[randomIndex];
     }
 
-    // Initial fetch on load
     fetchQuotes();
   </script>
 </body>
