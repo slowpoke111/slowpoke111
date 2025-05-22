@@ -4,12 +4,15 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Random Quote</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary-color: #007bff;
-      --secondary-color: #ffffff;
-      --bg-gradient: linear-gradient(135deg, #74ebd5, #9face6);
-      --card-bg: rgba(255, 255, 255, 0.85);
+      --primary: #007bff;
+      --accent: #28a745;
+      --bg-gradient: radial-gradient(circle at 20% 20%, #d0e7ff, #a5b8ff);
+      --card-bg: rgba(255, 255, 255, 0.2);
+      --text-color: #222;
+      --glass-blur: blur(20px);
     }
 
     * {
@@ -19,43 +22,69 @@
     }
 
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Inter', sans-serif;
       background: var(--bg-gradient);
-      color: #222;
+      color: var(--text-color);
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       min-height: 100vh;
-      position: relative;
       padding: 2rem;
+      overflow: hidden;
+      position: relative;
     }
 
     #quoteDisplay {
+      position: relative;
       background: var(--card-bg);
-      padding: 2rem 3rem;
-      border-radius: 1rem;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-      max-width: 700px;
+      backdrop-filter: var(--glass-blur);
+      -webkit-backdrop-filter: var(--glass-blur);
+      padding: 3rem 3.5rem;
+      border-radius: 1.5rem;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+      max-width: 800px;
       text-align: center;
-      font-size: 1.5rem;
+      font-size: 1.8rem;
       line-height: 1.6;
+      transition: all 0.3s ease-in-out;
+    }
+
+    #quoteDisplay::before,
+    #quoteDisplay::after {
+      content: '"';
+      font-size: 3rem;
+      color: rgba(0, 0, 0, 0.2);
+      position: absolute;
+    }
+
+    #quoteDisplay::before {
+      top: 0.5rem;
+      left: 1rem;
+    }
+
+    #quoteDisplay::after {
+      bottom: 0.5rem;
+      right: 1rem;
     }
 
     button {
       margin-top: 2rem;
       padding: 0.75rem 1.5rem;
       font-size: 1.1rem;
+      font-weight: 600;
+      background-color: var(--primary);
+      color: white;
       border: none;
-      background-color: var(--primary-color);
-      color: var(--secondary-color);
-      border-radius: 0.5rem;
+      border-radius: 0.6rem;
       cursor: pointer;
-      transition: background-color 0.3s ease;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      transition: background-color 0.3s ease, transform 0.2s ease;
     }
 
     button:hover {
       background-color: #0056b3;
+      transform: translateY(-2px);
     }
 
     #prButton {
@@ -64,27 +93,32 @@
       right: 1rem;
       padding: 0.5rem 1rem;
       font-size: 0.9rem;
-      border: none;
-      background-color: #28a745;
+      font-weight: 500;
+      background-color: var(--accent);
       color: white;
       border-radius: 0.5rem;
       text-decoration: none;
-      transition: background-color 0.3s ease;
+      transition: background-color 0.3s ease, transform 0.2s ease;
     }
 
     #prButton:hover {
-      background-color: #218838;
+      background-color: #1e7e34;
+      transform: scale(1.05);
     }
 
     @media (max-width: 600px) {
       #quoteDisplay {
-        font-size: 1.1rem;
-        padding: 1.5rem;
+        font-size: 1.2rem;
+        padding: 2rem;
       }
 
       #prButton {
-        font-size: 0.8rem;
+        font-size: 0.75rem;
         padding: 0.4rem 0.8rem;
+      }
+
+      button {
+        font-size: 1rem;
       }
     }
   </style>
