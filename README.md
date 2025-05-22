@@ -9,7 +9,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=slowpoke111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ben Bell's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=slowpoke111&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
+[View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
 > “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
-
