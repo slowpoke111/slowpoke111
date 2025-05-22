@@ -98,7 +98,6 @@
 "In C++, you can shoot yourself in the foot, but then you get to reload and shoot yourself again." — Bjarne Stroustrup
 "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
-"Love with your heart, use your head for everything else" - Alan Melikdjanian
 "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
