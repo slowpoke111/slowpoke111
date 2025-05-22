@@ -11,5 +11,5 @@
 
   
 ## Random quote of the hour
-> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
+> "Debugging is like being the detective in a criminal movie where you are also the murderer." — Steve McConnell
 
