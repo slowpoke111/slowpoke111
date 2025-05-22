@@ -137,3 +137,6 @@
 "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
 "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 "If your code compiles on the first try, you forgot to save the file." — Unknown
+"The best way to speed up your code is to delete half of it. The hard part is figuring out which half." — Unknown
+"Machine learning is statistics with better marketing." — Unknown
+"The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
