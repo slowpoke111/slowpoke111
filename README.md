@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The best way to get a project finished faster is to give it to the wrong programmer.” —– Unknown
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
