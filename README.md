@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Multithreading is like having two hands. You can do twice as much, or you can poke yourself in both eyes at the same time." — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
