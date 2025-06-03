@@ -134,6 +134,7 @@
 
   <script>
     let quotes = [];
+    let currentQuoteIndex = 0;
 
     async function fetchQuotes() {
       try {
@@ -141,10 +142,18 @@
         if (!response.ok) throw new Error('Failed to fetch quotes.txt');
         const text = await response.text();
         quotes = text.split(/\r?\n/).filter(line => line.trim().length > 0);
+        shuffleQuotes();
         loadRandomQuote();
       } catch (error) {
         document.getElementById('quoteDisplay').textContent = 'Error loading quotes.';
         console.error(error);
+      }
+    }
+
+    function shuffleQuotes() {
+      for (let i = quotes.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [quotes[i], quotes[j]] = [quotes[j], quotes[i]];
       }
     }
 
@@ -153,8 +162,8 @@
         document.getElementById('quoteDisplay').textContent = 'No quotes loaded.';
         return;
       }
-      const randomIndex = Math.floor(Math.random() * quotes.length);
-      document.getElementById('quoteDisplay').textContent = quotes[randomIndex];
+      document.getElementById('quoteDisplay').textContent = quotes[currentQuoteIndex];
+      currentQuoteIndex = (currentQuoteIndex + 1) % quotes.length;
     }
 
     fetchQuotes();
