@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “Python’s motto is ‘There’s only one way to do it,’ but C++’s motto is ‘There’s a million ways to do it, and none of them are safe.’” – Unknown
 
