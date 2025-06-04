@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
