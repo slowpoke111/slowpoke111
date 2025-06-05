@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
->  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
 
