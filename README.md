@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
->  The only problem with faster computers is that they allow programmers to waste time more quickly.” — John Hennessy
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
