@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
