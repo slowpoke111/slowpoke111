@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> "Legacy code is too valuable to replace, but too outdated to maintain." — Michael Feathers
 
