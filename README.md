@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “C++: Where you can shoot yourself in the foot, but you can also reload your gun and shoot yourself again.” – Bjarne Stroustrup
 
