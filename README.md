@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
