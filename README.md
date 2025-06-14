@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
