@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
