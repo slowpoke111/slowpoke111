@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
