@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
