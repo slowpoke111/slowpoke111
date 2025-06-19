@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
