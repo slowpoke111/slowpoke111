@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
