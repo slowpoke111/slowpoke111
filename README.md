@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
 
