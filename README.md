@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
