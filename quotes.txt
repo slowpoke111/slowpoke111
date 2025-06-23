@@ -106,7 +106,7 @@
 "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 "It’s a bug until you document it. Then it’s a feature." — Unknown
 "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
-"The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that it lets you do it in ways you never imagined." — Bjarne Stroustrup
+"The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that ts you do it in ways you never imagined." — Bjarne Stroustrup
 "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
@@ -139,3 +139,10 @@
 "The best way to speed up your code is to delete half of it. The hard part is figuring out which half." — Unknown
 "Machine learning is statistics with better marketing." — Unknown
 "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+"Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+"Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+“In JavaScript, null is not an object. Therefore, null has no properties, including the toString property. Therefore, calling null.toString() throws an error. Therefore, null + '' is 'null'.” — Douglas Crockford
+“In AI, we trust. Just not too much.” — Unknown
+“The hardest part of building software is not coding, it's requirements.” — Elon Musk
+“Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
+“In security, there are no silver bullets, only lead pipes.” — Unknown
