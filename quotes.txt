@@ -146,3 +146,4 @@
 “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 “In security, there are no silver bullets, only lead pipes.” — Unknown
+"C++: an octopus made by nailing extra legs onto a dog" - Unknown
