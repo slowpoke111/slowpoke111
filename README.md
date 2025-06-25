@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Encryption works. Properly implemented strong crypto systems are one of the few things you can rely on." — Edward Snowden
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
