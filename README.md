@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
