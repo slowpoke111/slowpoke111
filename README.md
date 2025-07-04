@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
 
