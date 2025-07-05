@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.” — Rich Cook
 
