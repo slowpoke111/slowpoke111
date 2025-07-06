@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
