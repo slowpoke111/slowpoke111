@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
