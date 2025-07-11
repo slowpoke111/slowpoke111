@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
