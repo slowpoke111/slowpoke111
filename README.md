@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
