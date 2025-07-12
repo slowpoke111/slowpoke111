@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "Machine learning is statistics with better marketing." — Unknown
 
