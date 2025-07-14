@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
