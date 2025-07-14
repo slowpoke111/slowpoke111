@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The better the code, the less you need documentation, but the harder it is to understand why it doesn’t need documentation." — Martin Fowler
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
