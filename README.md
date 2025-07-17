@@ -11,5 +11,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
