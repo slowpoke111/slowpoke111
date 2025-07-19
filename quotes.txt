@@ -147,3 +147,7 @@
 “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 “In security, there are no silver bullets, only lead pipes.” — Unknown
 "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+"There are 10 types of people: those who understand binary, those who don't, and those who weren't expecting a base 3 joke." — Unknown
+"Command-based programming: Because state machines weren't complicated enough." — Unknown
+"WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
+"RoboRIO: A $400 computer that makes your $50 Raspberry Pi look like a supercomputer." — Unknown
