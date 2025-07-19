@@ -9,6 +9,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=slowpoke111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ben Bell's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=slowpoke111&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slowpoke111/slowpoke111/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slowpoke111/slowpoke111/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/slowpoke111/slowpoke111/output/github-snake.svg">
+</picture>
+
+
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
 > "Multithreading is like having two hands. You can do twice as much, or you can poke yourself in both eyes at the same time." — Unknown
