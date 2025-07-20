@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "There are 10 types of people: those who understand binary, those who don't, and those who weren't expecting a base 3 joke." — Unknown
 
