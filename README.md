@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
 
