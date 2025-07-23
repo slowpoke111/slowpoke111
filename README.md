@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
