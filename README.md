@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
