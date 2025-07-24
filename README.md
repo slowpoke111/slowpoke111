@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
 
