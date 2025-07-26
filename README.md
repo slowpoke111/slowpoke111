@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
 
