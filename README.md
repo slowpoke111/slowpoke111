@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
