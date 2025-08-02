@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The best way to speed up your code is to delete half of it. The hard part is figuring out which half." — Unknown
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
