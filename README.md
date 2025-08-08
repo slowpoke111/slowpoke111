@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> "RoboRIO: A $400 computer that makes your $50 Raspberry Pi look like a supercomputer." — Unknown
 
