@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
+> "Pointers are the one part of C++ that makes you feel like you're playing with fire. And then sometimes you realize you are playing with fire." — Bjarne Stroustrup
 
