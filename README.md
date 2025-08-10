@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
