@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
