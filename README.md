@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 
