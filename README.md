@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Requirements are the things we must misunderstand so we can write code that doesn't work." — Unknown
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
