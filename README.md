@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that ts you do it in ways you never imagined." — Bjarne Stroustrup
 
