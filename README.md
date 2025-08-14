@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “C++ is like having a chainsaw in your back pocket. It can help you get the job done quickly, but you might lose a finger or two.” — Bjarne Stroustrup
 
