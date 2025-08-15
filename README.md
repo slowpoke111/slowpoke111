@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
