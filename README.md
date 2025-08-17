@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Command-based programming: Because state machines weren't complicated enough." — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
