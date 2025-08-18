@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The code you write today will be the code you curse tomorrow.” – Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
