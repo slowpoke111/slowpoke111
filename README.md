@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
