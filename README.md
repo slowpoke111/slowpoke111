@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
