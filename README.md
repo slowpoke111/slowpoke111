@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
 
