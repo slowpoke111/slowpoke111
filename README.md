@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
 
