@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
