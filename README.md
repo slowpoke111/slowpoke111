@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
