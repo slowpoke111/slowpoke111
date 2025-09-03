@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
