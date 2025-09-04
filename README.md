@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
