@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
