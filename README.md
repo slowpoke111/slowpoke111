@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> "Adding features to make it better often makes it worse." — Joel Spolsky
 
