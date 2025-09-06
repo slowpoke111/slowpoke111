@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Requirements are the things we must misunderstand so we can write code that doesn't work." — Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
