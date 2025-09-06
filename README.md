@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
