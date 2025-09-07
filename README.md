@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> “C++ is like having a chainsaw in your back pocket. It can help you get the job done quickly, but you might lose a finger or two.” — Bjarne Stroustrup
 
