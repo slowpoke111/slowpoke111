@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
