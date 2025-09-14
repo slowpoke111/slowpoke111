@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
