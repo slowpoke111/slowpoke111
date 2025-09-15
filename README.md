@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
