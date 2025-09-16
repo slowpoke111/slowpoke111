@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
