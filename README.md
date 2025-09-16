@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> "The sooner you fall behind, the more time you'll have to catch up." — Unknown
 
