@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
