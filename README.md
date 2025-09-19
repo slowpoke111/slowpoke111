@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
