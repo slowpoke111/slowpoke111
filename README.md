@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> “C++ is like having a chainsaw in your back pocket. It can help you get the job done quickly, but you might lose a finger or two.” — Bjarne Stroustrup
 
