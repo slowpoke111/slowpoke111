@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "RoboRIO: A $400 computer that makes your $50 Raspberry Pi look like a supercomputer." — Unknown
 
