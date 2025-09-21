@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "RoboRIO: A $400 computer that makes your $50 Raspberry Pi look like a supercomputer." — Unknown
 
