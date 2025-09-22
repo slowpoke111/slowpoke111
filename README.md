@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> ﻿“In theory, there is no difference between theory and practice. But, in practice, there is.” — Jan L.A. van de Snepscheut
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
