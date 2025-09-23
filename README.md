@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
