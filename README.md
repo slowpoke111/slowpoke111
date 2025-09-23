@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
