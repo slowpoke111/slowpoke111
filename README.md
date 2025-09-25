@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
