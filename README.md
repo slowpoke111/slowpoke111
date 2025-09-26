@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
