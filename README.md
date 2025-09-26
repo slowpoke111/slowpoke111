@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
