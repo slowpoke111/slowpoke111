@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
