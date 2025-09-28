@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “A good programmer is someone who looks both ways— before crossing a one-way street.” — Doug Linder
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
