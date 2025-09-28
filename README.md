@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
+> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
 
