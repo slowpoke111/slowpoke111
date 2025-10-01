@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
 
