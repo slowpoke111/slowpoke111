@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
+> "In Python, you don't get to tell the computer what to do; it tells you what it thinks you should do." — Unknown
 
