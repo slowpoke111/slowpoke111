@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
 
