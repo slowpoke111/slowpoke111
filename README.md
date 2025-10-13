@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> "Command-based programming: Because state machines weren't complicated enough." — Unknown
 
