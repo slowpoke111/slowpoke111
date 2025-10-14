@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
 
