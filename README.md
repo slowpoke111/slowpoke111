@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "Machine learning is statistics with better marketing." — Unknown
 
