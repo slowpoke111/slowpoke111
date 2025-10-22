@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
