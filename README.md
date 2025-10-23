@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
