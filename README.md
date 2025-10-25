@@ -18,5 +18,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
