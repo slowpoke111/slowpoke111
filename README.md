@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowpoke111&langs_count=12)
 
-![Ben Bell's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowpoke111&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
-
 [![ ](https://github-profile-trophy.vercel.app/?username=slowpoke111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ben Bell's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=slowpoke111&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -19,4 +17,5 @@
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
 > "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+
 
