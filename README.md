@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
