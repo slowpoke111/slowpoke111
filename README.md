@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
+> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
 
