@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
