@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
