@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
