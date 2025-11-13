@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
