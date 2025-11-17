@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
