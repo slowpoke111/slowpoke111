@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Command-based programming: Because state machines weren't complicated enough." — Unknown
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
