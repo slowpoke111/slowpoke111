@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
