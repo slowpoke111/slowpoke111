@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
