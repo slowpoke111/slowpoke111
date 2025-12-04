@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
