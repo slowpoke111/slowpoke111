@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
