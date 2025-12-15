@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
+> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
 
