@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
 
