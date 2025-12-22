@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
 
