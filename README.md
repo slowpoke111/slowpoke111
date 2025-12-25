@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
