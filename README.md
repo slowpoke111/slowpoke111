@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
