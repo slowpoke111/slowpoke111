@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
