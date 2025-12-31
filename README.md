@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
 
