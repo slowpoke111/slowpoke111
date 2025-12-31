@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
