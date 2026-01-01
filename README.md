@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
