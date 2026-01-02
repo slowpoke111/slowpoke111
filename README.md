@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
