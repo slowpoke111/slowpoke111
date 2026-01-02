@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
