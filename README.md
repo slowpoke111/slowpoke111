@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
