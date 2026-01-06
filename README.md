@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
