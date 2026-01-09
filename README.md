@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
 
