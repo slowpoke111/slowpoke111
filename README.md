@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
