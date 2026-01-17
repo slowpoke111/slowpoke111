@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
