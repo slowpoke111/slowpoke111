@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
