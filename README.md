@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
