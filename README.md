@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
