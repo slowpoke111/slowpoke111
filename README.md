@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
