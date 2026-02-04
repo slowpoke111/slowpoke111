@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
