@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
