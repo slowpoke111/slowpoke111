@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
 
