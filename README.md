@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
