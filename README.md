@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
