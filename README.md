@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
