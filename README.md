@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
