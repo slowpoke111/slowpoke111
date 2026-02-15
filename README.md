@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
 
