@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
