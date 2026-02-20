@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Command-based programming: Because state machines weren't complicated enough." — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
