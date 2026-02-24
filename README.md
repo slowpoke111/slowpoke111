@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
