@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
+> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
 
