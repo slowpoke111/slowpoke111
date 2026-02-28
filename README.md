@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
