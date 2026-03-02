@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
