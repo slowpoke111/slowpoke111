@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “In AI, we trust. Just not too much.” — Unknown
 
