@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
