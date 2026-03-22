@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
