@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
