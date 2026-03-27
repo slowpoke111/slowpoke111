@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
 
