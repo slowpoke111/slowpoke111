@@ -16,5 +16,5 @@
 
 [View Some Quotes](https://slowpoke111.github.io/slowpoke111/)  
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
