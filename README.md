@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
+> "The more people working on a project, the longer it takes to finish." — Fred Brooks
 
