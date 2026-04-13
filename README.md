@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
