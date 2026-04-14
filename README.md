@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
