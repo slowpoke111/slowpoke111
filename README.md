@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
