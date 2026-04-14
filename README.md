@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
