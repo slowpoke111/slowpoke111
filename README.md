@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
