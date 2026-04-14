@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
