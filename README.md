@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
