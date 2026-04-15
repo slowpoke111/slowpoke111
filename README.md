@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
