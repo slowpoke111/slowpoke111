@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
