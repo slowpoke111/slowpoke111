@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
