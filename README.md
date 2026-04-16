@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Command-based programming: Because state machines weren't complicated enough." — Unknown
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
