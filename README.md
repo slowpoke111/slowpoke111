@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
