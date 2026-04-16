@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
+> "Command-based programming: Because state machines weren't complicated enough." — Unknown
 
