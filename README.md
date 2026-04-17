@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
