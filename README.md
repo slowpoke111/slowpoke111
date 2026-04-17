@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
