@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Multithreading is like having two hands. You can do twice as much, or you can poke yourself in both eyes at the same time." — Unknown
+> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
 
