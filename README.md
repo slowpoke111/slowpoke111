@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
