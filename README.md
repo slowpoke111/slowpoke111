@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
