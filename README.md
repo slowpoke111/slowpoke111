@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
