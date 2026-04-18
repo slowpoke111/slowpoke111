@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
