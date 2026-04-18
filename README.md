@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
