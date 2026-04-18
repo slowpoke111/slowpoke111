@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
