@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> “In security, there are no silver bullets, only lead pipes.” — Unknown
 
