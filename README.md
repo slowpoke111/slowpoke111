@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
