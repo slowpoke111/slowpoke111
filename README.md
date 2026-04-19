@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
