@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 
