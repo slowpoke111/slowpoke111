@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
