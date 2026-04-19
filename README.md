@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
