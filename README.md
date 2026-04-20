@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
 
