@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
 
