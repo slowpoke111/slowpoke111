@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
+> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that ts you do it in ways you never imagined." — Bjarne Stroustrup
 
