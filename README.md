@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
