@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
