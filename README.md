@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
