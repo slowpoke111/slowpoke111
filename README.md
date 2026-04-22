@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
