@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
