@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
