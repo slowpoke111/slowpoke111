@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
