@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
