@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
