@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
