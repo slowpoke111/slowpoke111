@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
