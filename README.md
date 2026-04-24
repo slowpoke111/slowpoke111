@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
