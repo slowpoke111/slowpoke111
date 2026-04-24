@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The beauty of C++ is that it gives you the freedom to shoot yourself in the foot. The downside is that ts you do it in ways you never imagined." — Bjarne Stroustrup
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
