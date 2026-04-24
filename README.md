@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
