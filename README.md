@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
