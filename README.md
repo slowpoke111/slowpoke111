@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In JavaScript, null is not an object. Therefore, null has no properties, including the toString property. Therefore, calling null.toString() throws an error. Therefore, null + '' is 'null'.” — Douglas Crockford
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
