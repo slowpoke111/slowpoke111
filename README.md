@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
