@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
