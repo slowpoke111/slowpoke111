@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
