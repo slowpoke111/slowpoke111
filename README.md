@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
