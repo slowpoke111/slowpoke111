@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
