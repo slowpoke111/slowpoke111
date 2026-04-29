@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
