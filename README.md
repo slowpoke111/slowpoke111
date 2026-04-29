@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
