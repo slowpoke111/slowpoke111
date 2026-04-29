@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
