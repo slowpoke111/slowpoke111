@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
