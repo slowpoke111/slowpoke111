@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The code you write today will be the code you curse tomorrow.” – Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
