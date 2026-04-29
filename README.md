@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
