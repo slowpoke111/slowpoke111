@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
