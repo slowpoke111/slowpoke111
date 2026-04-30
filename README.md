@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
 
