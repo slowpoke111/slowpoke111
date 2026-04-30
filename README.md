@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that allows you to break your own code in new and exciting ways.” — Bjarne Stroustrup
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
