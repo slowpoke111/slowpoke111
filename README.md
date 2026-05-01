@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
