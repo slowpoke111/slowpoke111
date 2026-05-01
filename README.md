@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
