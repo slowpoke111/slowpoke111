@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
