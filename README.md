@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
