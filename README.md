@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
