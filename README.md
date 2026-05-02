@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
