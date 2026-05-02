@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
