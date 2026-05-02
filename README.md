@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
