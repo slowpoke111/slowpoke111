@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
