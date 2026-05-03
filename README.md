@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
