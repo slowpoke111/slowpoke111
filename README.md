@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
