@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
