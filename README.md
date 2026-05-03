@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
