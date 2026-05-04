@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
