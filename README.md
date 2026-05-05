@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
