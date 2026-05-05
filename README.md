@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
