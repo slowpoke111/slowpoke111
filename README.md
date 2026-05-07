@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
