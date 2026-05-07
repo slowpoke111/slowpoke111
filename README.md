@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
