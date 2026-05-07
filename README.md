@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
 
