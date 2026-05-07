@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
