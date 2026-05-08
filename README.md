@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
