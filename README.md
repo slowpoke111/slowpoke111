@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
