@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
