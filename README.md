@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
