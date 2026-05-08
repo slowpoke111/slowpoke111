@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
