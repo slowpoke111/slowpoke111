@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
