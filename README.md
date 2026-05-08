@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
