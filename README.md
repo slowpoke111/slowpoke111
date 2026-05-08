@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 
