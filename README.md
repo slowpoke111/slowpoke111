@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
