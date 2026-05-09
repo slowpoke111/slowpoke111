@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
