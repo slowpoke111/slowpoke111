@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
 
