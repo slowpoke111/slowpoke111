@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
