@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
