@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 
