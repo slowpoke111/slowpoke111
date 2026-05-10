@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
