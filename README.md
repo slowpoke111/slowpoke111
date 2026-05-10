@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
