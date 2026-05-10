@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
