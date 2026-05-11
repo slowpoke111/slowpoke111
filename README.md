@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The code you write today will be the code you curse tomorrow.” – Unknown
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
