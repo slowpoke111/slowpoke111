@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
 
