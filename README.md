@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
