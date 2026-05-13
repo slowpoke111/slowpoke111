@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
