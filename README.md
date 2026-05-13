@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
