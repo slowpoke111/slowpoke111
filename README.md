@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
