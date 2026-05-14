@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
