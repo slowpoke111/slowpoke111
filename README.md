@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
