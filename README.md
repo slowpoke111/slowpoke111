@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
