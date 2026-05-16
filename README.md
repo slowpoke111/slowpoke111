@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
