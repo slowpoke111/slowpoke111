@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
