@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
