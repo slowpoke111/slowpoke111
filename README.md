@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
