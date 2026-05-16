@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
