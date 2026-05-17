@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> “The best part about programming is that you get to make your own mistakes.” — Unknown
 
