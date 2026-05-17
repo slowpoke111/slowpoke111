@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
