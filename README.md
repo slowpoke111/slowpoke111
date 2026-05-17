@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
