@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
