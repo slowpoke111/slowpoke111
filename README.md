@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
