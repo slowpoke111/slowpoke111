@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
