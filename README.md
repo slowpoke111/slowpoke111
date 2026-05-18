@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
