@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
