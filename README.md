@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
