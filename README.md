@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
