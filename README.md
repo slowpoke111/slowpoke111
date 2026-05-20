@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In C++, you can break the program and fix it 100 different ways, but Java will let you break it with just one line of code.” — Herb Sutter
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
