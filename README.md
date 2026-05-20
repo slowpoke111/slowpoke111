@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
