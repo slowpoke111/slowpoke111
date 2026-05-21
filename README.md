@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The sooner you fall behind, the more time you'll have to catch up." — Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
