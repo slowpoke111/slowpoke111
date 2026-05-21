@@ -11,5 +11,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
