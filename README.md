@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
