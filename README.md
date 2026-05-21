@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slowpoke111 ![](https://komarev.com/ghpvc/?username=slowpoke111)
 - 👀 I’m interested in ML and GANs
 
-[![ ](https://github-profile-trophy.vercel.app/?username=slowpoke111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ben Bell's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=slowpoke111&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
