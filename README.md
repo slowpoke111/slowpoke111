@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
