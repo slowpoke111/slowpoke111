@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
