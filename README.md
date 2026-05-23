@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
 
