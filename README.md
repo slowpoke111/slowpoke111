@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
