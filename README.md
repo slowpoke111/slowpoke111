@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
