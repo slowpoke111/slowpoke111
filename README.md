@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
