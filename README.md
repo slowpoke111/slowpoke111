@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
