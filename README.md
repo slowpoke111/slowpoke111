@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
