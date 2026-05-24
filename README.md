@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> "The code you write today will be the code you curse tomorrow.” – Unknown
 
