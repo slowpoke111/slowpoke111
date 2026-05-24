@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
