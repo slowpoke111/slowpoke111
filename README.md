@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
