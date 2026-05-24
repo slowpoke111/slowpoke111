@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
