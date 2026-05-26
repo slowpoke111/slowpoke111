@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
