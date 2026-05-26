@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
 
