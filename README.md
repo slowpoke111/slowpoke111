@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
