@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
