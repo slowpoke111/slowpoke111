@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
