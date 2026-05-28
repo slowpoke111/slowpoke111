@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
 
