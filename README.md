@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
 
