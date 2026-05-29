@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
