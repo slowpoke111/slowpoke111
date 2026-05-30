@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
