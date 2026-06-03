@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
