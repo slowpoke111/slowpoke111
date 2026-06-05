@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The code you write today will be the code you curse tomorrow.” – Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
