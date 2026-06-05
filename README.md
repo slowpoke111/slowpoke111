@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
