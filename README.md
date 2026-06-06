@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
