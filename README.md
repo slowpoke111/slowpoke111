@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
