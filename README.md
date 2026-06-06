@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
