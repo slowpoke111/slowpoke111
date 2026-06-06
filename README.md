@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
