@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
