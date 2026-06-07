@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
 
