@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
