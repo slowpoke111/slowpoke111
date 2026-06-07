@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
 
