@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
