@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
