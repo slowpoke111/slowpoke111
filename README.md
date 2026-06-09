@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
