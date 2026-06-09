@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
