@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
