@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
