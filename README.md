@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
