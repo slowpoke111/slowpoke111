@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
