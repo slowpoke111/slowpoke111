@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
