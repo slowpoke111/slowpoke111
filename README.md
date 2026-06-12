@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
