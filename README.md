@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
