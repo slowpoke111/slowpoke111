@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
