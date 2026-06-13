@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
