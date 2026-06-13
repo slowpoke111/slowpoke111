@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
