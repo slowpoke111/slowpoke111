@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
