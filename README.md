@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
