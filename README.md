@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
