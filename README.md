@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 
