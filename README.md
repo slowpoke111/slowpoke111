@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
