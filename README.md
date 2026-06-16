@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “It’s not a bug, it’s an undocumented feature.” — Unknown
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
