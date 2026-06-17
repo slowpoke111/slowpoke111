@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
