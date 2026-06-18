@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
