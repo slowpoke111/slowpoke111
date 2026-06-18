@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
