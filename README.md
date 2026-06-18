@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
 
