@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
