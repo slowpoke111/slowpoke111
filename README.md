@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
