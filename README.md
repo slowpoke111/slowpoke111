@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
+> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 
