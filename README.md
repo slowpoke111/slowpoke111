@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
+> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
 
