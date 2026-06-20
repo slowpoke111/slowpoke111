@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 
