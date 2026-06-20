@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
 
