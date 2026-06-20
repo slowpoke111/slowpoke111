@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
