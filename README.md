@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> “It’s not a bug, it’s an undocumented feature.” — Unknown
 
