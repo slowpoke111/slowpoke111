@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “It’s not a bug, it’s an undocumented feature.” — Unknown
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
