@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
