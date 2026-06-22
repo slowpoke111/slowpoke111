@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
