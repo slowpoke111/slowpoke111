@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
