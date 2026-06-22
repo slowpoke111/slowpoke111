@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
