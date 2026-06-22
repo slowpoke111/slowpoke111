@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
