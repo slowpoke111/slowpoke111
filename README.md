@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
