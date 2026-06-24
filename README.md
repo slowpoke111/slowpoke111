@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
