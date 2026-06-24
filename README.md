@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
