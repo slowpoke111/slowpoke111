@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
