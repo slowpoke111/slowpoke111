@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
