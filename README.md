@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
