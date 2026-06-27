@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
