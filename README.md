@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
 
