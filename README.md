@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
