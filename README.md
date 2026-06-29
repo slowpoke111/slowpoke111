@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
