@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
