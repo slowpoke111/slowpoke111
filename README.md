@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
