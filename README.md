@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
