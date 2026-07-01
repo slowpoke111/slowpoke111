@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
