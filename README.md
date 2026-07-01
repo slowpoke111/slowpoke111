@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
