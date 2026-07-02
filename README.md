@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
