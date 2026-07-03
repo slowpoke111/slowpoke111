@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
