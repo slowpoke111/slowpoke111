@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
+> “In C++, you can break the program and fix it 100 different ways, but Java will let you break it with just one line of code.” — Herb Sutter
 
