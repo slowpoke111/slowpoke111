@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
