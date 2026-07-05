@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 
