@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
