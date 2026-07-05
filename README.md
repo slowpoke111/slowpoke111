@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
