@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
