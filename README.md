@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
