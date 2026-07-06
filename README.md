@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
