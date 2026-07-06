@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
 
