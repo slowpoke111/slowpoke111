@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
