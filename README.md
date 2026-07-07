@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
