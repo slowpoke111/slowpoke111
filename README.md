@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 
