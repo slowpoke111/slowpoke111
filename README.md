@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
