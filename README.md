@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
