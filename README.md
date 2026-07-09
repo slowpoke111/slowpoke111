@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
 
