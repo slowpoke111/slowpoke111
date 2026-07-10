@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
 
