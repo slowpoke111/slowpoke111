@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "Machine learning is statistics with better marketing." — Unknown
 
