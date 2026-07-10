@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “To iterate is human, to recurse divine.” — L. Peter Deutsch
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
