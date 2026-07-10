@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
 
