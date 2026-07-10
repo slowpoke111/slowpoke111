@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
