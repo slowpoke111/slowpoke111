@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
