@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
