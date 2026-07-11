@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
