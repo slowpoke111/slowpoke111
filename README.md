@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
