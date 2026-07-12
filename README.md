@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Command-based programming: Because state machines weren't complicated enough." — Unknown
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
