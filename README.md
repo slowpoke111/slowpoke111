@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The best thing about pointers in C++? They give you direct control over memory. The worst thing about pointers? They give you direct control over memory." — Bjarne Stroustrup
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
