@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
