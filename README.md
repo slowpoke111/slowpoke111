@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
