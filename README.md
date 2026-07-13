@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
