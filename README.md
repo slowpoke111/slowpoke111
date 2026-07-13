@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
