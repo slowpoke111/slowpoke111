@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
