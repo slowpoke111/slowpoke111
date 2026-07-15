@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
