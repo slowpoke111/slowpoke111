@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
