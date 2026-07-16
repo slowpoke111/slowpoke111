@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
