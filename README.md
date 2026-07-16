@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
