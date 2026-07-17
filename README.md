@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
