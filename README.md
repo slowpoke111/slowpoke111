@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
