@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
