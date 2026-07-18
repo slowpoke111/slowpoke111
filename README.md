@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
