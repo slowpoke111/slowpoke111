@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
