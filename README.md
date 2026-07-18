@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
