@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
 
