@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “It’s not a bug, it’s an undocumented feature.” — Unknown
 
