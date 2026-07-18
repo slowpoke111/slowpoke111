@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
