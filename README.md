@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
