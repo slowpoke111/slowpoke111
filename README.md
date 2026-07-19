@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
 
