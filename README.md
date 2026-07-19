@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
 
