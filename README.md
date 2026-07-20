@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
 
