@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
