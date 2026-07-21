@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
