@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
