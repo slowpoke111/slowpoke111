@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
