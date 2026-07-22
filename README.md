@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
