@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
