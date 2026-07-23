@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
 
