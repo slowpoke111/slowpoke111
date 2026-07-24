@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
+> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 
