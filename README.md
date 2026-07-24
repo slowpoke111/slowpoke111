@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
