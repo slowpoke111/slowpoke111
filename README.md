@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
