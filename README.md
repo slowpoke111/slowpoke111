@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
