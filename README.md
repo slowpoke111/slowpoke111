@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
