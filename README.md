@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
