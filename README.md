@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
