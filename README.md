@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "The best thing about pointers in C++? They give you direct control over memory. The worst thing about pointers? They give you direct control over memory." — Bjarne Stroustrup
 
