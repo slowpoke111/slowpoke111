@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
 
