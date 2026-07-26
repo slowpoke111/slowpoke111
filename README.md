@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
