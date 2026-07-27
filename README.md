@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
