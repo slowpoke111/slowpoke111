@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
