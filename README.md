@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> “APIs are the duct tape of the software world.” — Jeffrey Snover
 
