@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> “Deep learning is like making a cake: You have layers, you add ingredients, and at the end, you either have something beautiful or you have a disaster, and you’re not sure which it is.” – Unknown
 
