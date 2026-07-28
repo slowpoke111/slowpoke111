@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
