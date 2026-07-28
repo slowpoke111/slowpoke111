@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “APIs are the duct tape of the software world.” — Jeffrey Snover
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
