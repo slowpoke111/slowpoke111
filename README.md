@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
+> "The closer the deadline, the longer it takes to finish." — Unknown
 
