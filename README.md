@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The Python motto is: 'There’s only one way to do it'—unless there’s a more Pythonic way, in which case you can do it that way too.” – Tim Peters
+> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
 
