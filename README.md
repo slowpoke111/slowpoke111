@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
+> “AI is the only thing that can get a 99% accuracy and still fail every edge case.” – Unknown
 
