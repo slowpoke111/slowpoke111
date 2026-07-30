@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
