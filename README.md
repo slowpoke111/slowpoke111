@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
