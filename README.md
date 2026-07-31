@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
