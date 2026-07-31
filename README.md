@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
