@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
+> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
 
