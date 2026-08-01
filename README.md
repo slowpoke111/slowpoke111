@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The closer the deadline, the longer it takes to finish." — Unknown
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
