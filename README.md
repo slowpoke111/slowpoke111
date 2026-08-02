@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
+> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
 
