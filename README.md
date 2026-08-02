@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
