@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
