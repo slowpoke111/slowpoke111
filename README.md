@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
