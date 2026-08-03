@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
