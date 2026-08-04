@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
 
