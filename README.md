@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
