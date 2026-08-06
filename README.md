@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
