@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
