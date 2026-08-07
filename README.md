@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
