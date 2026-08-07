@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> “To iterate is human, to recurse divine.” — L. Peter Deutsch
 
