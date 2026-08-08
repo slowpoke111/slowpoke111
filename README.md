@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "My code works. I’m just waiting for the rest of the world to catch up." — Unknown
 
