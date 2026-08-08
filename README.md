@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
 
