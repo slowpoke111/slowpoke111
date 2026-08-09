@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
