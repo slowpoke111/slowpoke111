@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
 
