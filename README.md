@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best part about programming is that you get to make your own mistakes.” — Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
