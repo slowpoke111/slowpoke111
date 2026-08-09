@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
+> "Machine learning is statistics with better marketing." — Unknown
 
