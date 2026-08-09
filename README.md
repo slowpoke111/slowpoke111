@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
