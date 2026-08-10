@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
