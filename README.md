@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
 
