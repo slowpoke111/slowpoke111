@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> "Machine learning is statistics with better marketing." — Unknown
 
