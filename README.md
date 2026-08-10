@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
