@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
