@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
