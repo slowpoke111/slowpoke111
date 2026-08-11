@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
