@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
