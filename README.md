@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
 
