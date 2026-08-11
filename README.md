@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
