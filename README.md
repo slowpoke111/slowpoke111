@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
