@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
