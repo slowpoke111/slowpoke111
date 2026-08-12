@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
