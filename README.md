@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
