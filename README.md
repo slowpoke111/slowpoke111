@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
