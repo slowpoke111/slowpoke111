@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
