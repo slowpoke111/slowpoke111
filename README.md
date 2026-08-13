@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “One man’s poor software is another man’s full-time job.” — Jessica Gaston
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
