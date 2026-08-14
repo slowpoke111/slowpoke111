@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
