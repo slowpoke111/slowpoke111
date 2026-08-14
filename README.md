@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
