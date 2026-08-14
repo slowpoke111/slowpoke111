@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Pointers are like chainsaws: they can help you solve problems, but they can also slice through your code—or your foot." — Bjarne Stroustrup
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
