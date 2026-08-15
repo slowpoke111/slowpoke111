@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
 
