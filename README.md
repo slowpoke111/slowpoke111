@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In computer science, we stand on each other’s shoulders – until we’re all standing in a pile of broken software.” — Unknown
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
