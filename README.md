@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of training a neural network is deciding whether to blame the model or the data.” – Unknown
+> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
 
