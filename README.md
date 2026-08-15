@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 
