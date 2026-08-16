@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The problem with software is that it’s like building a house out of Jello: the moment you take your eye off it, it collapses.” — Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
