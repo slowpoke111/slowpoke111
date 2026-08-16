@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
