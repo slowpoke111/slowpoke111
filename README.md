@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
+> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
 
