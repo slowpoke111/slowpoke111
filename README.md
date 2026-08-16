@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
