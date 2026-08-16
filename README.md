@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
