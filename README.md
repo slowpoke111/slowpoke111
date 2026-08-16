@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
