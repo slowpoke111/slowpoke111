@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
