@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
+> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
 
