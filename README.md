@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "The better the documentation, the less anyone reads it." — Martin Fowler
 
