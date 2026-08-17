@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
