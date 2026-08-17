@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
+> "I wouldn’t call it a bug; it’s more of a ‘feature request’ that wasn’t planned." — Unknown
 
