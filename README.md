@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
