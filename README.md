@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
