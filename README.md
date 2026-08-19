@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only software that is bug-free is the one that no one uses.” — Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
