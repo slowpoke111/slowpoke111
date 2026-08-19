@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
+> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
 
