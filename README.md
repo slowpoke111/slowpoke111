@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> “You know you’re coding in Java when you’re writing 10 lines to do something that should take just one.” – James Gosling
 
