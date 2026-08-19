@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
+> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
 
