@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 
