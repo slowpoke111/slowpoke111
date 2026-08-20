@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
