@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I think there is a world market for maybe five computers." — Thomas Watson (IBM)
+> "Machine learning is statistics with better marketing." — Unknown
 
