@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
+> “Compiling is like the pause before you get to see the end of a mystery novel. Will your solution work, or will it fail spectacularly?” — Unknown
 
