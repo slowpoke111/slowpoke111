@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
