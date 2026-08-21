@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
 
