@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
