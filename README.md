@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The code you write today will be the code you curse tomorrow.” – Unknown
+> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
 
