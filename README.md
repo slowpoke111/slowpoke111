@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
