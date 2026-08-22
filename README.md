@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
