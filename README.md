@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> “It’s not a bug, it’s an undocumented feature.” — Unknown
 
