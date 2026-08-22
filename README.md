@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
+> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
 
