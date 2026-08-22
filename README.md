@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
