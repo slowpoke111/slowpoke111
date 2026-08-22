@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
+> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
 
