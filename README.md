@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
 
