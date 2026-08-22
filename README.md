@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
