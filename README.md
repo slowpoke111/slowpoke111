@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “It’s not a bug, it’s an undocumented feature.” — Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
