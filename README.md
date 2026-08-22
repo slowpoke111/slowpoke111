@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only way to learn is by failing, but failing often makes you want to stop learning." — Grace Hopper
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
