@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
+> “Python is a language that lets you easily express your ideas—until you try to run your code on a different version.” — Guido van Rossum
 
