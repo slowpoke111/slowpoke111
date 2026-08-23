@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The most disastrous thing that you can ever learn is your first programming language.” — Alan Kay
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
