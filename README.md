@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
