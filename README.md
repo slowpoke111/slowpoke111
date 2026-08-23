@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> “C++ is like a Swiss Army knife, except the knife is broken, and the pliers keep trying to run away.” – Unknown
 
