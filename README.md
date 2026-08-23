@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ is the only language that has a greater than 100% chance of causing a crash.” – Unknown
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
