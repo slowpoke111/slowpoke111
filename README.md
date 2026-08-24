@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
