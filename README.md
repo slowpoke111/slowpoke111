@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> "Latency isn’t the problem until it is. Then it’s all of them." — Unknown
 
