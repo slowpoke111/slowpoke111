@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
+> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
 
