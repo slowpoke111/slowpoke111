@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
