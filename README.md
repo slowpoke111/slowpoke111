@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> "Branches are like parallel universes: everything works perfectly until you try to merge them." — Unknown
 
