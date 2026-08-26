@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
