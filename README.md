@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
 
