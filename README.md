@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
