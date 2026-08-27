@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
