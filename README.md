@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
