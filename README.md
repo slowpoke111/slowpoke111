@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> "Overfitting is when your model learns the answers to the test... but fails the exam." — Unknown
 
