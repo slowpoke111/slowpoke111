@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The sooner you fall behind, the more time you'll have to catch up." — Unknown
+> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
 
