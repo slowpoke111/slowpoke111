@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
