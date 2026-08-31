@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
