@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
+> "Command-based programming: Because state machines weren't complicated enough." — Unknown
 
