@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
