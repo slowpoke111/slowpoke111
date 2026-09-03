@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The better the documentation, the less anyone reads it." — Martin Fowler
+> “The best thing about a boolean is that even if you're wrong, you're only off by a bit.” — Unknown
 
