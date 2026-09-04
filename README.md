@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "WPILib CameraServer: Streaming video at 15 FPS so you can watch your robot fail in real-time." — Unknown
+> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
 
