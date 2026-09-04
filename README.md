@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The infinite loop is a safe place, a sanctuary of eternal processing where nothing ever ends and nothing ever breaks." — Unknown
+> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
 
