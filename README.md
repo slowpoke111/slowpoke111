@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two ways to write error-free programs; only the third one works.”” —”– Alan Perlis
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
