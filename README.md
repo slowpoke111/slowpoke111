@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Writing code is like writing a book, except if you miss out a single comma on page 126, the whole thing makes no sense.” — Unknown
+> “The problem with software is that it’s like fixing a car with duct tape – one part breaks, and you just hope everything else holds up.” — Unknown
 
