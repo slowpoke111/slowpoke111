@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
