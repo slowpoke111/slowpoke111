@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You know you're a competitive programmer when you try to optimize an algorithm that isn't even working yet.” — Unknown
+> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
 
