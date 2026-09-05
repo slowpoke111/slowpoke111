@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "Automation saves time, but setting it up takes twice as long as doing the task manually." — Larry Wall
 
