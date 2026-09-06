@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
+> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
 
