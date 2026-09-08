@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “If at first you don’t succeed; call it version 1.0.” — Unknown
+> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
 
