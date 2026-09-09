@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
