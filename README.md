@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
 
