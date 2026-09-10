@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ is a complex language because real-world problems are complex. And yes, it’s definitely more complex than Python... but that's why you love it, right?" — Bjarne Stroustrup
+> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
 
