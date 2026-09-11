@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
+> "Swerve drives: where every wheel wants to be the center of attention." — Unknown
 
