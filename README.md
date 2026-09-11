@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
