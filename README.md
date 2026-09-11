@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
