@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
