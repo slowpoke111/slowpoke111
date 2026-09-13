@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
+> “If you think your users are idiots, only idiots will use it.” — Linus Torvalds
 
