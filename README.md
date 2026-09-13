@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> “Building a system without testing is like building a house without checking if the walls are level.” — Unknown
 
