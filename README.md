@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more intuitive the software is, the more likely users will still find a way to break it." — Don Norman
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
