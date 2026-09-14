@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
