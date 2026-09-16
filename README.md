@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> “Writing recursive code in competitive programming is a gamble: sometimes it’s the answer, sometimes it’s a stack overflow.” – Unknown
 
