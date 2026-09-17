@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
