@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “I don’t care if it works on your machine! We are not shipping your machine!” — Vidiu Platon
+> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
 
