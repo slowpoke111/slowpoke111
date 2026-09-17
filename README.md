@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
