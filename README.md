@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Java: The write-once, debug-everywhere language.” – Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
