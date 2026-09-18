@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
