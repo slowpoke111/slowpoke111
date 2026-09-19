@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
