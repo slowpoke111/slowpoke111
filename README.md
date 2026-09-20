@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s not a bug. It’s a 'learning opportunity' disguised as a crash." — Unknown
+> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
 
