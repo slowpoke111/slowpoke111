@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
