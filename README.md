@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
+> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 
