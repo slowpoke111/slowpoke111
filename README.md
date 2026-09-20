@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+> “Python is great. Until you start looking for performance and discover you’re living in a dream world.” – Unknown
 
