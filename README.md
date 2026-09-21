@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
