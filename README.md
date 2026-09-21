@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
+> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
 
