@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
