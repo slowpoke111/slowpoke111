@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
