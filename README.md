@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In competitive programming, 'off by one' is the difference between a solution and a crash.” – Unknown
+> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
 
