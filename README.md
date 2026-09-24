@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
 
