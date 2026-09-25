@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
