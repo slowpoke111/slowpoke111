@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "C++ gives you pointers, but it doesn’t hold your hand. If you’re not careful, you’ll end up holding your own foot." — Bjarne Stroustrup
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
