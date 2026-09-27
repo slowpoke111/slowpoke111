@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
+> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
 
