@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Programming is like a puzzle; the only problem is that sometimes you end up losing the pieces.” —– Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
