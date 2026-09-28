@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Debugging: Where you fix one bug and find 12 more waiting to be discovered." — Unknown
+> “When you solve one problem, ten more appear to take its place.” — Unknown
 
