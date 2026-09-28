@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
