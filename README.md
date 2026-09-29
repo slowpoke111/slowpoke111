@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “You can’t fix a bug with another bug, but you can sometimes hide it really well.” — Unknown
+> "Machine learning is statistics with better marketing." — Unknown
 
