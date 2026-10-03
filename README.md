@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “There are two types of programming: writing code that works and writing code that gets you to the next deadline.” — Unknown
+> "Making software more secure often makes it harder to use, leading to insecure workarounds." — Bruce Schneier
 
