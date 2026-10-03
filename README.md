@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
+> “C++ has all the power of a high-powered sports car, but the seat belts are just a little too tight.” — Bjarne Stroustrup
 
