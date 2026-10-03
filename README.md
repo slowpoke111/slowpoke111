@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “The first 30 minutes of any USACO problem are spent deciphering the input format.” — Unknown
 
