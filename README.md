@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Machine learning is statistics with better marketing." — Unknown
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
