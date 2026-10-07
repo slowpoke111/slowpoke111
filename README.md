@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
