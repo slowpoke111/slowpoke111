@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Software development is like writing a novel, but instead of ink, you use variables.” — Unknown
+> "If the code and the comments disagree, both are probably wrong." — Norm Schryer
 
