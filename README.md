@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "If your code compiles on the first try, you forgot to save the file." — Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
