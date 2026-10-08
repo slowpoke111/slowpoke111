@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “In security, there are no silver bullets, only lead pipes.” — Unknown
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
