@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “Reinforcement learning: Making intelligent decisions based on poor decisions from the past.” – Unknown
+> “If at first you don’t succeed; call it version 1.0.” — Unknown
 
