@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more autonomy a developer has, the less consistent the codebase becomes." — Linus Torvalds
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
