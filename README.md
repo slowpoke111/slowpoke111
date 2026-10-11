@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
+> “Developers are like chefs: when the dish is done, you can’t help but tweak it a bit more.” — Unknown
 
