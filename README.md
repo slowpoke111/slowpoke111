@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
