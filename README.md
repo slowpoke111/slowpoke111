@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “The hardest part of building software is not coding, it's requirements.” — Elon Musk
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
