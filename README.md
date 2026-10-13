@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> "Feedforward: when you predict your robot’s future, and it still surprises you." — Unknown
 
