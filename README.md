@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "The faster the hardware gets, the more bloated the software becomes." — Norman Augustine
 
