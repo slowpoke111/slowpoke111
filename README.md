@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "It’s a bug until you document it. Then it’s a feature." — Unknown
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
