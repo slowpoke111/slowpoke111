@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
