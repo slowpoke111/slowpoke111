@@ -10,5 +10,5 @@
 </picture>
 
 ## Random quote of the hour
-> “When you solve one problem, ten more appear to take its place.” — Unknown
+> "Machine learning is statistics with better marketing." — Unknown
 
