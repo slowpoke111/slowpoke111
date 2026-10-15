@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." — Tom Cargill (Bell Labs)
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
