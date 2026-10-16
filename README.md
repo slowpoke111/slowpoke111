@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
+> “The best way to test an AI model is to give it a task so simple it should work, and watch as it fails.” – Unknown
 
