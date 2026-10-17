@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “Java is the language that makes everything feel like an abstraction. C++ is the language that reminds you it’s not.” — Herb Sutter
+> "Everyone owns the code, so no one feels responsible for fixing it." — Linus Torvalds
 
