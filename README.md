@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
+> "The more you try to make something perfect, the more you realize how imperfect it is." — Donald Knuth
 
