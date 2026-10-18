@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
+> "Most vulnerabilities are just features from the wrong perspective." — Unknown
 
