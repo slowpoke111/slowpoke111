@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Most vulnerabilities are just features from the wrong perspective." — Unknown
+> "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!' Now he has two problems." — Unknown
 
