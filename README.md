@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Any code of your own that you haven’t looked at in six or more months might as well have been written by someone else." — Eagleson’s Law
+> "You don’t control the system. You just suggest things and hope the scheduler is in a good mood." — Real-Time Systems Developer
 
