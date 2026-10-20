@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “Never underestimate the power of a '2 ≤ N ≤ 100' constraint. It’s like a trap waiting for you to assume it means you’re safe from optimization.” — Unknown
+> “The power of Java lies not in its speed, but in how much memory it can eat before it gives up.” — James Gosling
 
