@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
