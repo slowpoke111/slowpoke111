@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “In AI, we trust. Just not too much.” — Unknown
+> “A correct solution is like a needle in a haystack; the problem is finding it without turning the haystack into a mountain.” — Unknown
 
