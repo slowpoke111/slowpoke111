@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “The road to hell is paved with good intentions and a poorly designed API.” — Unknown
+> “When debugging, novices insert print statements, experts remove them.” — Unknown
 
