@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
+> “The only software that is bug-free is the one that no one uses.” — Unknown
 
