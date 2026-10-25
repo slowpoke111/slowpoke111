@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “When debugging, novices insert print statements, experts remove them.” — Unknown
+> "I spent hours trying to fix the bug. Then I realized the bug was just a feature that never made it to production." — Unknown
 
