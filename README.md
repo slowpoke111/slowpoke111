@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "You know it’s FRC season when your code is more experimental than your robot design." — Unknown
+> "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — Phil Karlton
 
