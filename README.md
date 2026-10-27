@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “Programming is like building a house: the foundation is important, but the details can make or break it.” — Unknown
+> "The first rule of robotics: sensors don’t lie. The second rule: sensors lie all the time." — Unknown
 
