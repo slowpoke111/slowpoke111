@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “The sooner you start to code, the sooner you can fix the problems you didn’t foresee.” — Unknown
+> "The more time you spend solving a problem, the more you realize how many simpler ways there were to solve it." — Unknown
 
