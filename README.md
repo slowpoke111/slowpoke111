@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "The only constant in software development is that yesterday's best practice is tomorrow's legacy code." — Unknown
+> "I have come to the conclusion that one of the main causes of the trouble with software is that people make it."  — Unknown
 
