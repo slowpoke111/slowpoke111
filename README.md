@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “C++ is a complicated language. It’s like a Swiss army knife that’s too big to carry.” – Bjarne Stroustrup
+> "Encryption works. Properly implemented strong crypto systems are one of the few things you can rely on." — Edward Snowden
 
