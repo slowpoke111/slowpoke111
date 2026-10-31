@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "In mathematics, you don’t understand things. You just get used to them." — John von Neumann
+> "The three golden rules of computer security: do not own a computer, do not power it on, and do not use it." — Unknown
 
