@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "The more people working on a project, the longer it takes to finish." — Fred Brooks
+> "The act of debugging increases the chances of introducing new bugs." — Edsger Dijkstra
 
