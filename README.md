@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “Machine learning is fun until you realise you’re just automating your own biases.” — Unknown
+> "If your code compiles on the first try, you forgot to save the file." — Unknown
 
