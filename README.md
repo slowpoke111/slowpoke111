@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “To understand recursion, you must first understand recursion.”– Unknown
+> "The more advanced the upgrade, the more likely it is to break everything that worked before." — Unknown
 
