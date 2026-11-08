@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “C++ is like having a chainsaw in your back pocket. It can help you get the job done quickly, but you might lose a finger or two.” — Bjarne Stroustrup
+> "The best-kept secret of modern computing: abstraction is a lie we believe because it’s convenient." — Unknown
 
