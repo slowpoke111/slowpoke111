@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+> "Requirements are the things we must misunderstand so we can write code that doesn't work." — Unknown
 
