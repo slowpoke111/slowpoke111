@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> “C++: where syntax errors turn into existential crises.” – Unknown
 
