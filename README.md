@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “C++: where syntax errors turn into existential crises.” – Unknown
+> "Encryption works. Properly implemented strong crypto systems are one of the few things you can rely on." — Edward Snowden
 
