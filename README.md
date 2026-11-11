@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “C++ will not protect you from yourself. It’s like giving a baby a chainsaw and hoping for the best.” – Unknown
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." — Unknown
 
