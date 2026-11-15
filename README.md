@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "The more confident you are that your solution will pass all test cases, the more likely it will fail one you didn’t think of." — Unknown
+> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
 
