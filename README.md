@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “The longer you look at a bug, the more it starts to look like a feature.” — Unknown
+> “The less you know, the more likely you are to break something that isn't broken.” — Unknown
 
