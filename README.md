@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “In Java, the only thing more bloated than your code is the JVM.” – Unknown
+> "I’m the kind of programmer who writes a hundred lines of code, then deletes 90 of them and wonders why nothing works." — Unknown
 
