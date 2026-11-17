@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "I love deadlines. Especially the whooshing sound they make as they go by." — Douglas Adams
+> “In USACO, when you finish a problem, it’s not about celebrating; it’s about figuring out why it passed the test cases.” – Unknown
 
