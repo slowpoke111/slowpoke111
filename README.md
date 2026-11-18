@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "There are 10 types of people: those who understand binary, those who don't, and those who weren't expecting a base 3 joke." — Unknown
+> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
 
