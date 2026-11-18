@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "C++: an octopus made by nailing extra legs onto a dog" - Unknown
+> "Multithreading is like having two hands. You can do twice as much, or you can poke yourself in both eyes at the same time." — Unknown
 
