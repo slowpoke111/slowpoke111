@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “When I started with Java, I thought, ‘This will be the one language I will never forget.’ Now I just hope I remember why I thought that.” — Joshua Bloch
+> "There are 10 types of people: those who understand binary, those who don't, and those who weren't expecting a base 3 joke." — Unknown
 
