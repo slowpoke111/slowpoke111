@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Complexity is the enemy of security, reliability, and your sanity." — Unknown
+> "It’s a bug until you document it. Then it’s a feature." — Unknown
 
