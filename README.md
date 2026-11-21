@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Adding features to make it better often makes it worse." — Joel Spolsky
+> "Machine learning is statistics with better marketing." — Unknown
 
