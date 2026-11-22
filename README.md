@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
+> “The only difference between a problem and a feature is whether or not the programmer knows about it.” — Unknown
 
