@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> “Python: You can’t break it…unless you try to implement it in a multi-threaded environment.” – Unknown
+> "It works perfectly on my machine, but I'm sure it's just broken on yours." — Linus Torvalds
 
