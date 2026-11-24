@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "The better the code looks on paper, the harder it is to make it work in practice." — Steve McConnell
+> "The best way to speed up your code is to delete half of it. The hard part is figuring out which half." — Unknown
 
