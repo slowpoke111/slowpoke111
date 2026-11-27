@@ -12,5 +12,5 @@ My GitHub stats:
 </picture>
 
 ## Random quote of the hour
-> "Good code is its own best documentation. But, you know, people still like comments." — Steve McConnell
+> "Crypto is math, implemented in code, maintained by humans. You can guess where it breaks." — Unknown
 
